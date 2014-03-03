@@ -1,0 +1,218 @@
+@import url("normalize.css");
+
+/* ClearFix */
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+.cf:after {
+    clear: both;
+}
+.cf {
+    *zoom: 1;
+}
+/* Border Box */
+p, div, section, article, footer, header, aside, blockquote, ul, ol, a {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.light, .light h1, header.light a  {
+    fill: white;
+    color: white;
+    border-color: white;
+}
+a img {
+    border: 0;
+}
+p img {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
+hr {
+    width: 50px;
+    height: 1px;
+    margin: 0 auto 30%;
+    background: #b7b7b7;
+    border: none;
+}
+
+/* Align to vertical center */
+.verticalCenter {
+    display: table-cell;
+    vertical-align: middle;
+}
+/* Text align to center  */
+.txtCenter {
+    text-align: center;
+}
+
+/* HTML */
+body, html {
+    font-size: 100%; /* change to 1.375 for desktop */
+    height: 100%;
+    background: #fff;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+.logo {
+    text-align: left;
+    float: left;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+.intro {
+    width: 100%;
+    height: 100%;
+    margin-bottom: 2.618em;
+    display: table;
+}
+.post {
+    margin: 0 auto 30%;
+}
+.twFollow {
+    display: block;
+    height: 70px;
+    width: 200px;
+    margin: 1em auto 3em;
+    text-align: center;
+    text-decoration: none;
+}
+.arrow {
+    position: absolute;
+    bottom: 0;
+    overflow: hidden;
+    width: 100%;
+    height: 40px;
+}
+.arrow a {
+    position: relative;
+    margin: 0 auto;
+/*    background: rgba(1,1,1,0.4);*/
+    width: 90px;
+    display: block;
+    padding: 30px;
+/*    border-radius: 100%;*/
+}
+.arrow img {
+    position: relative;
+    top: -40px;
+}
+footer {
+    padding: 6% 0 2%;
+}
+
+/* Navigation */
+header {
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    padding: 3%;
+}
+.headerWhiteBg {
+    background: #f6f6f6;
+}
+.btnCloseMenu {
+    position: fixed;
+    margin-top: 3%;
+    background-size: contain;
+    right: 3%;
+}
+.btnMenu {
+    float: right;
+}
+.menuToggle, nav {
+    width: 100%;
+    height: 100%!important;
+    position: fixed;
+}
+.menuToggle {
+    display: none;
+    z-index: 9000;
+}
+nav {
+    background:  rgba(1, 1, 1, 0.8);
+    z-index: 10000;
+    display: block;
+}
+nav>ul {
+    list-style: none;
+    position: absolute;
+    top: 20%;
+    padding: 0;
+    margin: 0;
+    display: table;
+    height: 60%;
+    width: 100%;
+}
+nav li {
+    display: table;
+    text-align: center;
+    width: 100%;
+    height: 20%;
+}
+nav li a, nav li ul {
+    width: 100%;
+    display: table-cell;
+    vertical-align: middle;
+}
+.navSocial li {
+    width: 50%;
+    display: inline;
+}
+.navSocial>li>a {
+    width: 28px;
+    height: 28px;
+    display: inline-block;
+    background-size: contain;
+    margin: 0 10px;
+    font-size: 1rem;
+}
+.tw, .dr {
+    fill: #fff;
+}
+nav>ul>li>ul {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+.mainMenu {
+    display: none;
+}
+
+/* Preloader */
+body {
+    overflow: hidden;
+}
+
+#preloader {
+    position: fixed;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    background-color:#fff; /* change if the mask should have another color then white */
+    z-index:99; /* makes sure it stays on top */
+}
+
+#status {
+    width:200px;
+    height:200px;
+    position:absolute;
+    left:50%; /* centers the loading animation horizontally one the screen */
+    top:50%; /* centers the loading animation vertically one the screen */
+    background-image:url(../img/status.gif); /* path to your loading animation */
+    background-repeat:no-repeat;
+    background-position:center;
+    margin:-100px 0 0 -100px; /* is width and height divided by two */
+}
+
+/* Minor Fixes */
+img.typekit-badge {
+    display: none!important;
+}
+

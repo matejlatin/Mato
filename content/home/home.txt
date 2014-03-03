@@ -1,0 +1,15 @@
+Title: I'm passionate about simple, clean & usable design.
+
+----
+
+h1: I'm passionate about simple, clean & usable design.
+
+----
+
+Author: Matej Latin
+
+----
+
+Text:
+
+I'm Matej, a Germany based UX, UI & Web designer at wondermags.

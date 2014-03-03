@@ -1,0 +1,5 @@
+Title: Page not found
+----
+h1: There's nothing here.
+----
+Text: 404 - Page not found

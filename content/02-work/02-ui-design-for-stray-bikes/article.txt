@@ -1,0 +1,33 @@
+Title: UI Design for Stray Bikes
+----
+Date: 2013-06-15
+----
+Intro: Stray Bikes is a simple app that shows the user where the closest rental bike stations are and their availability of the bikes.
+----
+Text:
+
+The idea for the app is very simple. Detect user's location and show him where near bike stations are on the map. The colors of the icons tell the user what the availability of bikes and parking spaces on each station is.
+
+<div class="mapBg">(image: icon.png)</div>
+
+##Teaching the User
+
+The interface of the app is very simple. It only shows icons on the map and a button to detect user's location. That's why we decided to design the intro slides that explain the user how the app works and what the icons mean.
+
+(image: 01.jpg)
+
+These slides would only show the first time the user launches the app. We needed something simple to indicate the availability of the rental bikes and parking lots, so the user would remember it. We decided to simply use the same colors as traffic light.
+
+## Simple and Minimal Interface
+
+The core idea of the app is very simple. So it doesn't make sense to overcomplicate the interface with unnecessary elements and decorations. All we really need is a "Detect my location" button and the map with icons that mark stations.
+
+(image: 02.jpg)
+
+Only those elements can crowd the whole screen when there's a lot of stations. But the main screen of the app still provides the usability the user needs in an environment with a lot of distractions. Once the user taps on an icon, more info about the station would be displayed. Other stations icons fade out a little, so the focus of the user remains on the station he selected.
+
+We could hide the "Detect my location" button, detect user's location automatically and show it only when he navigates away. But the button remained in the app design.
+
+(image: 03.jpg)
+
+This app is a perfect example of how simple an app can be and still provide the user with valuable information through a very simple and clean user interface. Maybe the author could add a possibility to guide the user to the selected station, but who knows. Maybe some day he will.

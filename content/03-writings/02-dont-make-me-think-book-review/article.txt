@@ -1,0 +1,32 @@
+Title: Don’t Make Me Think Book Review
+----
+Date: 2012-10-20
+----
+Related:
+- writings/professional-web-design-book-review
+----
+Intro: I read this book a while ago and decided to write a book review, simply because I learned a lot from it.
+----
+Text:
+
+Don’t Make Me Think by Steve Krug is probably the best book about web usability. It’s one of the books every web designer should read and keep it on the bookshelf. The book was first released in 2000, so it’s actually 12 years old. But it hasn’t sold more than 300.000 copies for nothing.
+
+##12 Years Old But…
+
+I’ve read the 2nd edition, which was released in 2005, consisting of additional chapters, but those seemed a little forced to me. Steve wrote at the beginning of the book that he didn’t want to release the 2nd edition of the book, because he wanted it to be short, which was his original goal.
+
+Well those added chapters don’t make it that longer to read, but could easily be left out. In my opinion they don’t really add any real value to the book.
+
+##Great Examples
+
+What I really liked about this book were the good examples Steve uses to explain himself. It really make this book easy to read and puts a great value to this book. There were some times when I thought to myself: “Oh, I really didn’t think of that in this way.”
+
+As a webdesigner I found this book as a real good and solid basis for further knowledge about design and user experience.
+
+##Bottom line
+
+Don’t make your users think when they use your product. Everything should be as simple as it’s possible.
+
+__Good:__ Short, easy to read, price, great value, good examples.
+
+__Bad:__ A few chapters didn’t seem to fit this book.

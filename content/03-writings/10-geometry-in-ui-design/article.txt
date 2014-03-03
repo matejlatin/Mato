@@ -1,0 +1,16 @@
+Title: Geometry in UI Design
+----
+Date: 2013-12-19
+----
+Related:
+- writings/dead-end-projects-in-freelancing
+----
+Intro: Because automatic alignment sometimes just doesn’t work.
+----
+Text:
+
+I found myself using geometry while designing user interfaces quite often, so I decided to share a simple example I was working on the other day.
+
+Aligning interface elements in Photoshop is pretty easy as it comes with the pre-defined aligning options. And for the 95% those are all you really need. What can you do in those 5% examples when you can’t use these options? Well, it actually depends a lot on what you’re working on. Let’s see a specific example.
+
+[Read full article on Medium →](https://medium.com/design-things/61ef4f88218a)

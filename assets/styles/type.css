@@ -1,0 +1,145 @@
+/* Main Text - 16px perfect fifth */
+p, ul, ol {
+    margin: 0 5% 1.707em;
+    color: #444;
+    line-height: 1.5em;
+    font-weight: normal;
+}
+p strong {
+    font-weight: 700;
+}
+.post p {
+    margin: 0 auto 1.3rem;
+    padding: 0 5%;
+}
+article ul li, article ol li {
+    margin: 0 0 0.8em;
+}
+article ol, article ul {
+    padding-left: 1.292em;
+}
+.extract, .welcome {
+    font-size: 1.292em;
+    font-weight: 300;
+    line-height: 1.292em;
+    margin-left: 5%;
+    margin-right: 5%;;
+    color: #222;
+}
+blockquote {
+    font-family: Georgia, Times, Serif;
+    font-size: 2.25em;
+    font-style: italic;
+    margin: 1.138em auto;
+    padding: 0 3%;
+    text-align: center;
+    line-height: 1.5em;
+    color: #222;
+}
+blockquote footer {
+    font-family: Georgia, serif;
+    font-size: 0.444em;
+    font-style: normal;
+    color: #444;
+}
+blockquote hr {
+    margin: 0.8em auto 0.5em;
+}
+
+/* Headings */
+h1, h2 {
+    text-align: center;
+    line-height: 1.138em;
+    color: #222;
+}
+h1 {
+    margin: 0 auto;
+    font-size: 2.25em;
+    padding: 0 3%;
+}
+.home h1, .writings h1, .about h1 {
+    font-size: 1.8em;
+}
+.logo h1 {
+        -webkit-font-smoothing: subpixel-antialiased;
+}
+h2 {
+    font-size: 1.707em;
+    margin: 1.707em auto 0.667em;
+    max-width: 80%;
+}
+h3 {
+    font-size: 1.5em;
+    color: #222;
+}
+aside h2, section h2 {
+    margin: 0 auto 1.3rem;
+}
+aside h4, .post h4, article h4, .post time {
+    margin: 0 auto 1.5rem;
+    font-size: 14px;
+    color: #969696;
+    font-weight: normal;
+}
+article h4 {
+    font-size: 16px;
+}
+.logo h1 {
+    font-size: 30px;
+    height: 50px;
+    padding: 0 0 0 10px;
+    line-height: 1.3;
+    height: 50px;
+}
+.logo a {
+    text-decoration: none;
+}
+
+/* Links */
+article p a, article li a {
+    color: #5f92cb;
+    text-decoration: none;
+    border-bottom: 1px solid #5f92cb;
+}
+a:visited {
+    text-decoration: none;
+}
+header a {
+    color: #222;
+}
+nav a {
+    color: #fff;
+    font-size: 2em;
+    text-decoration: none;
+    font-weight: 300;
+}
+.btn {
+    text-decoration: none;
+    padding: 0.5em 0.7em;
+    background: #000;
+    color: #fff;
+    display: block;
+    max-width: 140px;
+    margin: 0 auto 0.6rem;
+    text-align: center;
+}
+.intro .btn {
+    margin: 3em auto;
+}
+a.tweetable {
+    text-decoration: none;
+}
+img + figcaption {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-size: 0.759em;
+    color: #999;
+    margin: 1.138em auto 0;
+    max-width: 43.75em;
+    line-height: 1.5;
+    padding: 0 5%;
+}
+figcaption a {
+    font-family: Georgia, serif;
+    color: #999;
+}

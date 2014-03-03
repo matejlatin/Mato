@@ -1,0 +1,10 @@
+User-agent: *
+
+Disallow: /assets/ 
+Disallow: /content/error/
+Disallow: /kirby/ 
+Disallow: /panel/
+Disallow: /site/
+Disallow: /thumbs/
+
+Sitemap: http://matoweb.com/sitemap

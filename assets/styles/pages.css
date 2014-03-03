@@ -1,0 +1,88 @@
+
+/* Backgrounds */
+.lightGray {
+    background: #f6f6f6;
+    margin-bottom: 3%;
+}
+
+/* Home */
+.home {
+    background: url(../images/index.jpg) center center;
+    background-size: cover;
+    margin: 0;
+}
+.homeBg {
+    background: rgba(64,64,52,0.4);
+}
+.welcome {
+    padding: 30% 0;
+}
+/* About */
+/* Work */
+.articlesList h4 {
+    margin: 4% auto;
+}
+#shotsByPlayerId {
+    margin: 0 0 4%;
+    padding: 0;
+    width: 100%;
+}
+#shotsByPlayerId li {
+    width: 50%;
+    display: block;
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+#shotsByPlayerId img {
+    max-width: 100%;
+    float: left;
+}
+#shotsByPlayerId a {
+    display: block;
+}
+/* Writings */
+.articlesList section:first-child {
+    margin-top: 4%;
+}
+
+/* Post */
+.tweet {
+    opacity: 0;
+    fill: #eaeaea;
+}
+time {
+    display: table;
+    margin: 1em auto;
+}
+aside section {
+    padding: 10% 0;
+}
+body>aside section {
+    background: rgba(246,246,246, 0.9);
+}
+p + figure {
+    margin: 4em auto;
+}
+figure {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+figure img {
+    width: 100%;
+}
+
+/* Posts */
+
+.mapBg {
+    background: url(../images/mapBg.jpg);
+    background-size: cover;
+    padding: 4%;
+    text-align: center;
+}
+
+.mapBg img {
+    margin: 4% auto;
+    opacity: 0;
+}

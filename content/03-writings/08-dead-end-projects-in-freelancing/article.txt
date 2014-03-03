@@ -1,0 +1,39 @@
+Title: Dead End Projects in Freelancing
+----
+Date: 2013-04-27
+----
+Related:
+- writings/who-do-we-design-for
+----
+Intro: Dead end projects are the ones that take a lot of time, but you still get nowhere near the final product.
+----
+Text:
+
+
+You know those projects, that don’t get anywhere, despite working on them for some time already? When the client changes his mind very often, expecting that you share the enthusiasm with them every time they do? When the documentation for the project was very poor (or there was none at all) and you’re actually sorry that you accepted the project?
+
+That’s a recipe for a dead end project and you should avoid them no matter how appealing they seem to be in the beginning. I got caught in this kind of projects far too often. That’s only because I always thought that I’ll be free to do what I want, because the client doesn’t really know what he wants. But in most cases, I was wrong.
+
+##Trying to Be Organised
+
+When you work as a freelance designer, you try to be as organised as possible. Keeping up with the schedule is very important. And the schedule is usually very tight. So if you fail to keep up with the work on one project, it will cause delays on the others.
+
+That’s why you should avoid such projects – they’re very hard to keep organised in a schedule. The level of unpredictability is just too high.
+
+##Freelancing is About Timely Delivery of Services
+
+So if you want to be a good designer and keep your customers happy, try to avoid the dead end projects. They’re usually not worth the money you earn and the time that gets wasted. Delays they may cause on other projects may mean that you’ll loose credibility with your other clients, so you might even loose a good client in the end.
+
+The reason I’m writing this post is because I got stuck in such a project again. I noticed that the __signs for a dead end project are always the same:__
+
+- the client doesn’t really know what he / she wants,
+- there’s no documentation or / and very poor project briefing,
+- the client has no schedule for the project.
+
+These kind of projects may look very appealing, because it seems that you’ll be able to work as you want and when you want. But usually, that’s not the case.
+
+##No More Dead End Projects!
+
+I decided to stop accepting such projects. Hopefully, some of you guys can learn from my mistake.
+
+Do you have any experience with such projects? Do you have any tips on how to avoid them or get back the control when you already accepted them and lost control in the process? Tell us in the comments section.

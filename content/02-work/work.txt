@@ -1,0 +1,8 @@
+Title: Work
+----
+h1: Less is more.
+----
+Author: Ludwig Mies van der Rohe
+----
+Text:
+

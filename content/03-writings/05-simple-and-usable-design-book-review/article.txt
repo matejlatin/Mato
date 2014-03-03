@@ -1,0 +1,27 @@
+Title: Simple and Usable Book Review
+----
+Date: 2013-02-07
+----
+Related:
+- writings/dont-make-me-think-book-review
+----
+Intro: Simple and Usable Web, Mobile, and Interaction Design by Giles Colborne is a book I wanted to read for a long time.
+----
+Text:
+
+
+Giles Colborne wrote Simple and Usable Web, Mobile, and Interaction Design and every designer should read it. It’s a very short book, but it really affects on how you think as a designer. Giles backs his theories with some great examples and photos.
+
+This book is Simple and Usable Design from the beginning to the end. Even the cover is very simple, but straight on point. It’s almost 200 pages long, but almost all the even pages are graphic material that support the content on the odd pages.
+
+##Achieving Simplicity in Design
+
+It takes a lot of time to make a product simple and usable. Think of the TV remote control (Giles comes back to this example several times in his book). It somehow allows us to use the most basic and most frequent functions without an effort, even without thinking about it. But the TV remote control has many buttons on it. And that’s when the designer comes in.
+
+Taking something complicated, and make it simple is an art and it takes a lot of creativity to achieve that. Giles explains 4 different strategies that can help the designers do that: remove, organize, hide, displace.
+##Remove, Organize,  Hide, Displace
+
+These are the 4 strategies that Giles describes in detail. He always comes back to the TV remote control design and he really makes it easy to understand. These are the strategies that, when applied, will help the designer make any product simple and usable. You can read more about making the TV remote simple and usable on his website.
+##What’s Next?
+
+Simple and Usable Design is something every designer should try to achieve in every project. It takes a lot of time and an effort to achieve it, but the result is worth it. Users will use the product and won’t even think how much work it takes to make something simple and usable. But they’ll quickly find out when something isn’t, and that’s when the designer didn’t do his job very well.

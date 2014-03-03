@@ -1,0 +1,42 @@
+Title: Professional Web Design Book Review
+----
+Date: 2012-12-04
+----
+Related:
+- writings/dont-make-me-think-book-review
+----
+Intro: A collection of 11 best web design articles from Smashing Magazine on more than 200 pages.
+----
+Text:
+
+This is a collection of the best articles posted on Smashing Magazine about webdesign. It is the first such collection, but there is also a [Professional Web Design vol. 2](http://www.smashingmagazine.com/ebooks/).
+
+I’m a big fan of the Smashing Magazine and I’ve been reading their articles for a while now but this kind of book is great. My opinion is that every web designer out there (at least the ones that want to be good) should read Smashing Magazine and their eBooks.
+
+##Designing a Successful Portfolio
+I was reading this book while I was designing my new portfolio website matoweb.com. So some of the articles really helped me improve my skills and my new portfolio in the end. [Portfolio Design Study: Design Patterns and Current Practices](http://www.smashingmagazine.com/2009/09/17/portfolio-design-study-design-patterns-and-current-practices/) by Vitaly Friedman and [Creating a Successful Online Portfolio](http://www.smashingmagazine.com/2008/03/04/creating-a-successful-online-portfolio/) by [Sean Hodge](http://www.twitter.com/SeanHodge) are the two articles I found very useful.
+
+(quote: Sean Hodge text: If you want to make things to please yourself, go be an artist.)
+
+The first one is more about practical advices that will even go in such details as telling you which words or phrases are most commonly used for text links on portfolio website. It’s a sort of analysis of portfolio websites.
+
+The other one tries to explain what sort of portfolio website you need to achieve different goals. Sean even warns the reader about the most common and deadly mistakes designers usually make when designing their portfolios.
+
+##Dealing With Clients and Responding to Design Criticism
+There is a dozen of articles in this book but I would like to focus on the ones that had the greatest impact on me. I’m sure every freelance designer has had his issues with some clients at some point in their career.
+
+- [How to Identify and Deal With Different Types Of Clients](http://www.smashingmagazine.com/2009/10/15/identifying-and-dealing-with-different-types-of-clients/) by [Robert Bowen](http://www.twitter.com/rob_e_bowen),
+- [Is John The Client Dense or Are You Failing Him?](http://www.smashingmagazine.com/2010/02/19/is-john-the-client-dense-or-are-you-failing-him/) by [Paul Boag](http://www.twitter.com/boagworld) and
+- [How to Respond Effectively To Design Criticism](http://www.smashingmagazine.com/2009/10/01/how-to-respond-effectively-to-design-criticism/) by [Andrew Follett](http://www.twitter.com/demoduckvideo)
+
+are great articles that try to explain how to deal with different types of clients and all the issues that can come along.
+
+You will even find out how to identify potentially problematic clients and how to deal with each problematic type. Reading these articles was actually very fun, realizing that all designers have similar problems.
+
+##Other Articles
+
+There are other articles in this book. About UI, UX and even about about the colour theory. Articles in this book will teach you things you can’t learn anywhere else. That’s because designers wrote them based on their own experience. And that’s the best thing about this book. Can’t wait to read the Professional Web Design vol. 2.
+
+__I like:__ designers are authors, based on experience, useful for beginners and advanced readers.
+
+__I don’t like:__ only eBook available, no consistency because of collection of articles.

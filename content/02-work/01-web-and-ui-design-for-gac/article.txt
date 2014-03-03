@@ -1,0 +1,33 @@
+Title: Web & UI Design for Get a Copywriter
+----
+Date: 2013-02-12
+----
+Intro: Get a Copywriter is an Australian start-up, providing the copywriting services from copywriters around the world. My job was to design the website and the back-end.
+----
+Text:
+
+This is one of those projects when the client makes it easy to get your job done. The Australian start-up company had already prepared the wire-frames and only needed my help with the pixel perfect execution of the design.
+
+##Homepage Design
+
+The most important element on the homepage is the Order content form. That’s why I tried to make it stand out from the rest of the page design. The first version of the design was mainly white and grey background with paragraphs and icons. It looked too plain, so we decided to increase the blurred background image and extend it to the maximum size possible.
+
+(image: 01.jpg title: Get a Copywriter Homepage)
+
+##Icons Design & Details
+
+The wire-frames that client provided used a lot of stock photos. In my opinion it didn’t really suit the project, the style of the design or the company itself. I suggested using icons instead. The client felt the same way so a lot of icons were designed during this project.
+
+I was thinking about using the same colour for all the icons, aiming for a clean look, but the client wanted different and especially strong colours for all the icons. It turned out it was a good move in the end.
+
+<div class="txtCenter">(image: 03.gif title: Colorful icons)</div>
+
+##Subpages & Back-End Design
+
+After the homepage was successfully completed, I moved on to designing other subpages of the website. I kept the blurred background image in the header, as it was already provided by the client’s wire-frames. The plan was to use different background photos on each of the subpages, to make it look more interesting and engaging.
+
+##More Icons
+
+We used a lot more icons in the back-end. We used icons for product types, for the level and length of the text they provided and the usual user options and settings. Every back-end needs good icons. Here are all the icons we used.
+
+More info and graphics coming soon. Until then, please [view the Get a Copywriter project on Dribbble](http://dribbble.com/matejlatin/projects/107852-Get-a-Copywriter) or visit [Getacopywriter.com](http://getacopywriter.com).

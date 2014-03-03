@@ -1,0 +1,10 @@
+<Files ~ "\.txt$">
+Order allow,deny
+Deny from all
+</Files>
+<IfModule mod_rewrite.c>
+
+RewriteEngine on
+RewriteRule \.txt$ /error [R=301,L]
+
+</IfModule>

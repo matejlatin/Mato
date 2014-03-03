@@ -1,0 +1,24 @@
+Title: 50 Ways to Make Google Love Your Website Book Review
+----
+Date: 2012-04-16
+----
+Intro: 50 Ways to Make Google Love Your Website by Steve Johnston is a short and basic book about the Google search engine.
+----
+Related:
+- writings/simple-and-usable-design-book-review
+----
+Text:
+
+I ordered this book about two months before the release of Advanced Web Metrics With Google Analytics 3rd edition because I wanted to learn some basics about how Google works.
+
+##Back to Basics
+
+And the book is really just that. Great to learn the basics, well written, simple to read and the author really tries to demonstrate how to improve the performance of a website in Google’s search results with examples. I mentioned before that the book is short (272 small pages) and consequently very cheap. It is very good if you’re starting a website and want to learn the basics of SEO and how Google search engine works.
+The only bad thing about this book is that, although it’s short it has a few chapters that seemed unnecessary to me, going in details a basic user might not understand.
+
+##Bottom Line
+
+This is a book you should read if you want to know the basics of Google search engine and SEO. It’s very basic and that’s what it’s really meant to be. Don’t go and read this book expecting vast knowledge.
+
+__Good:__ Short, easy to read, good examples, price.
+__Bad:__ very basic, a few unnecessary chapters.
