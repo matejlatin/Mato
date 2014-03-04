@@ -2,12 +2,13 @@
 <html lang="en">
 <head>
 
-  <title><?php echo html($page->title()) ?> - <?php echo html($site->title()) ?> </title>
+  <title><?php echo html($page->title()) ?> | <?php echo html($site->title()) ?> </title>
   <meta charset="utf-8" />
-  <meta name="description" content="<?php echo html($site->description()) ?>" />
+  <meta name="description" content="<?php echo html($site->intro()) ?>" />
+  <meta name="twitter:description" content="<?php echo html($site->intro()) ?>" />
   <meta name="robots" content="index, follow" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <meta property="og:title" content="Simple, clean & usable design by Mato">
+  <meta property="og:title" content="<?php echo html($site->title()) ?>">
   <meta property="og:type" content="website">
   <meta property="og:url" content="http://matoweb.com">
   <meta name="twitter:creator" content="@matejlatin">
