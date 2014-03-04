@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-  <title><?php echo html($page->title()) ?> | <?php echo html($site->title()) ?> </title>
+  <title><?php echo html($page->title()) ?> - <?php echo html($site->title()) ?> </title>
   <meta charset="utf-8" />
   <meta name="description" content="<?php echo html($site->intro()) ?>" />
   <meta name="twitter:description" content="<?php echo html($site->intro()) ?>" />

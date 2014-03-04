@@ -435,6 +435,7 @@ p img {
     display: block;
     text-align: center;
     margin: 0 auto;
+    max-width: 100%;
 }
 hr {
     width: 50px;
