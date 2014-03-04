@@ -4,14 +4,16 @@
 
   <title><?php echo html($page->title()) ?> - <?php echo html($site->title()) ?> </title>
   <meta charset="utf-8" />
-  <meta name="description" content="<?php echo html($site->intro()) ?>" />
-  <meta name="twitter:description" content="<?php echo html($site->intro()) ?>" />
+  <meta name="description" content="<?php echo html($page->intro()) ?>" />
   <meta name="robots" content="index, follow" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <meta property="og:title" content="<?php echo html($site->title()) ?>">
+  <meta property="og:title" content="<?php echo html($page->title()) ?>">
   <meta property="og:type" content="website">
   <meta property="og:url" content="http://matoweb.com">
   <meta name="twitter:creator" content="@matejlatin">
+  <meta name="twitter:site" content="@matejlatin">
+  <meta name="twitter:description" content="<?php echo html($page->intro()) ?>" />
+  <meta name="twitter:image" content="<?php echo $page->images()->find('bg.jpg')->url() ?>" />
   <meta name="twitter:card" content="summary">
 
   <?php echo css('assets/styles/combined.min.css') ?>
