@@ -4,6 +4,6 @@ Author: Matej Latin
 ----
 Description: I'm passionate about simple, clean & usable design.
 ----
-Keywords: matej, latin, designer, ux, ui, web design
+Intro: I'm passionate about simple, clean & usable design.
 ----
 Copyright: © 2009-(date: Year) (link: http://matoweb.com text: Matej Latin)

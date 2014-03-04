@@ -4,5 +4,7 @@ Date: 2012-04-30
 ----
 h1: One day I will find the words, and they will be simple.
 ----
+Intro: Articles and thoughts by Matej Latin
+----
 Author: Jack Kerouac
 
