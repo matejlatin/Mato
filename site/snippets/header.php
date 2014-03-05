@@ -14,7 +14,7 @@
   <meta name="twitter:site" content="@matejlatin">
   <meta name="twitter:description" content="<?php echo html($page->intro()) ?>" />
   <meta name="twitter:url" content="<?php echo html($page->url()) ?>" />
-  <meta name="twitter:domain" content="http://matoweb.com" />
+  <meta name="twitter:domain" content="matoweb.com" />
   <meta name="twitter:image" content="<?php echo $page->images()->find('bg.jpg')->url() ?>" />
   <meta name="twitter:card" content="summary_large_image">
 
