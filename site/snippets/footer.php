@@ -83,7 +83,6 @@
         // Preloader
         //<![CDATA[
             $(window).on('unload load', function() { // makes sure the whole site is loaded
-                $('#status').fadeOut(); // will first fade out the loading animation
                 $('#preloader').delay(100).fadeOut(500); // will fade out the white DIV that covers the website.
                 $('body').delay(350).css({'overflow':'visible'});
             })
