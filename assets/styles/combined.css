@@ -503,7 +503,7 @@ body, html {
     padding: 30px;
 /*    border-radius: 100%;*/
 }
-.arrow img {
+.arrow svg {
     position: relative;
     top: -40px;
 }
@@ -606,15 +606,14 @@ body {
 }
 
 #status {
-    width:200px;
-    height:200px;
-    position:absolute;
-    left:50%; /* centers the loading animation horizontally one the screen */
-    top:50%; /* centers the loading animation vertically one the screen */
-    background-image:url(../img/status.gif); /* path to your loading animation */
-    background-repeat:no-repeat;
-    background-position:center;
-    margin:-100px 0 0 -100px; /* is width and height divided by two */
+    width: 99px;
+    height: 27px;
+    position: absolute;
+    left: 50%; /* centers the loading animation horizontally one the screen */
+    top: 50%; /* centers the loading animation vertically one the screen */
+    margin: -13px 0 0 -49px; /* is width and height divided by two */
+    background:  url(../images/status.gif);
+    background-size: contain;
 }
 
 /* Minor Fixes */
@@ -1032,5 +1031,3 @@ figure img {
             line-height: 1.4;
         }
     }
-    /* LARGE screens modifications */
-
