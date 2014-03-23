@@ -26,7 +26,7 @@
             </section>
         </aside>
     <?php endif; ?>
-    <?php echo js('assets/js/combined.min.js') ?>
+    <?php echo js('assets/js/combined.min.js?123') ?>
     <script>
 
         /* Set height of elements */
