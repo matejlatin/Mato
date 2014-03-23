@@ -830,12 +830,9 @@ aside section {
 body>aside section {
     background: rgba(246,246,246, 0.9);
 }
-p + figure {
-    margin: 4em auto;
-}
 figure {
     display: block;
-    margin: 0 auto;
+    margin: 4em auto;
     text-align: center;
 }
 figure img {
