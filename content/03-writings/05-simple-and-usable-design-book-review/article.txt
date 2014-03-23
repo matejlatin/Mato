@@ -10,18 +10,38 @@ Intro: Simple and Usable Web, Mobile, and Interaction Design by Giles Colborne i
 Text:
 
 
-Giles Colborne wrote Simple and Usable Web, Mobile, and Interaction Design and every designer should read it. It’s a very short book, but it really affects on how you think as a designer. Giles backs his theories with some great examples and photos.
+I have always appreciated simplicity and it's the same when it comes to design. Or, especially when it comes to design. Simple & Usable is a short book, full of great examples that will change the way you think about design. As Dieter Rams says in one of his 10 principles for good design:
 
-This book is Simple and Usable Design from the beginning to the end. Even the cover is very simple, but straight on point. It’s almost 200 pages long, but almost all the even pages are graphic material that support the content on the odd pages.
+(quote: Dieter Rams text: Design is as little design as possible.)
+
+This book is simple and usable from the beginning to the end. Even the cover is very simple, but straight on point. It's almost 200 pages long, but  all the even pages are graphic material that support the content on the odd pages.
+
+(figure: img.jpg caption: An example of graphics from the book - A VW BlueMotion ad. title: BlueMOtion Ad)
 
 ##Achieving Simplicity in Design
 
 It takes a lot of time to make a product simple and usable. Think of the TV remote control (Giles comes back to this example several times in his book). It somehow allows us to use the most basic and most frequent functions without an effort, even without thinking about it. But the TV remote control has many buttons on it. And that’s when the designer comes in.
 
 Taking something complicated, and make it simple is an art and it takes a lot of creativity to achieve that. Giles explains 4 different strategies that can help the designers do that: remove, organize, hide, displace.
+
+##Design for Mainstream Users
+
+Giles divides the users in three groups: experts, willing adopters and mainstreamers. People rarely graduate from one group to another, even after using a product for several years. 
+
+While it's tempting to design for the experts and willing adopters (simply because it's easier), we, designers, should focus on mainstreamers. The main reason is that experts aren't typical customers and their judgment is often skewed. They don't experience the problems the mainstreamers have. Giles goes on and gives a good example for this. When Apple's iPod was first launched, the Apple fans and tech bloggers were disappointed with the product. They didn't understand what the hype about an Mp3 player was all about. As Giles says, they wanted an Apple Flying Car, while mainstream users just wanted an Mp3 Player that worked.
+
 ##Remove, Organize,  Hide, Displace
 
-These are the 4 strategies that Giles describes in detail. He always comes back to the TV remote control design and he really makes it easy to understand. These are the strategies that, when applied, will help the designer make any product simple and usable. You can read more about making the TV remote simple and usable on his website.
-##What’s Next?
+These are the 4 strategies that Giles describes in detail - each strategy is it's own chapter. He always comes back to the TV remote control design and he really makes it easy to understand. These are the strategies that, when applied, will help the designer make any product simple and usable. [You can read more about making the TV remote simple and usable on his website](http://www.simpleandusable.com/simplify-this).
+
+(figure: img02.jpg caption: Removing what's unnecessary. Title: TV remote)
+
+The first strategy is to remove what's unnecessary. There is a lot of buttons on the TV remote. Mainstream users don't use most of them. In fact, I think that I only use mostly 7 buttons. But sometimes removing is not an option. Well, we still have 3 strategies. you can read more about them in the book.
+
+##Conclusion
 
 Simple and Usable Design is something every designer should try to achieve in every project. It takes a lot of time and an effort to achieve it, but the result is worth it. Users will use the product and won’t even think how much work it takes to make something simple and usable. But they’ll quickly find out when something isn’t, and that’s when the designer didn’t do his job very well.
+
+(quote: Giles Colborne text: People won't always follow the path you set.)
+
+In the end, we can only try to achieve simplicity and usability for the users. There's many stakeholders in the design process and the end products is usually a compromise, something to please all of them. But, as Giles puts it, we should always prioritize features that satisfy mainstreamers' needs with minimal effort.
