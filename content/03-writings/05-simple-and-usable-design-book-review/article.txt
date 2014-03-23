@@ -18,6 +18,8 @@ This book is Simple and Usable Design from the beginning to the end. Even the co
 
 It takes a lot of time to make a product simple and usable. Think of the TV remote control (Giles comes back to this example several times in his book). It somehow allows us to use the most basic and most frequent functions without an effort, even without thinking about it. But the TV remote control has many buttons on it. And that’s when the designer comes in.
 
+(figure: img.jpg caption: "BlueMotion Saves You Money" is all you need for a good ad. title: BlueMOtion Ad)
+
 Taking something complicated, and make it simple is an art and it takes a lot of creativity to achieve that. Giles explains 4 different strategies that can help the designers do that: remove, organize, hide, displace.
 ##Remove, Organize,  Hide, Displace
 
