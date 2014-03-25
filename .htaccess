@@ -11,16 +11,6 @@ ExpiresDefault "now plus 10080 minutes"
 # End cache control #
 
 
-# Enable Keep-alive
-KeepAlive On
-
-# Maximum number of connections to keep alive
-MaxKeepAliveRequests 100
-
-# Number of seconds connection lives after idle
-KeepAliveTimeout 2
-
-
 # compress text, html, javascript, css, xml:
 AddOutputFilterByType DEFLATE text/plain
 AddOutputFilterByType DEFLATE text/html
