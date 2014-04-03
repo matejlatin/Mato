@@ -4,6 +4,8 @@ Date: 2013-02-12
 ----
 Intro: Get a Copywriter is an Australian start-up, providing the copywriting services from copywriters around the world. My job was to design the website and the back-end.
 ----
+Opacity: 0.3
+----
 Text:
 
 This is one of those projects when the client makes it easy to get your job done. The Australian start-up company had already prepared the wire-frames and only needed my help with the pixel perfect execution of the design.

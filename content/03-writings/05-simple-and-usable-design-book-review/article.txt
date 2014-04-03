@@ -7,6 +7,8 @@ Related:
 ----
 Intro: Simple and Usable Web, Mobile, and Interaction Design by Giles Colborne is a book I wanted to read for a long time.
 ----
+Opacity: 0.4
+----
 Text:
 
 

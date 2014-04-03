@@ -6,5 +6,7 @@ Author: Ludwig Mies van der Rohe
 ----
 Intro: Case studies and Dribbble shots by Matej Latin.
 ----
-Text: 
+Opacity: 0.3
+----
+Text:
 

@@ -6,5 +6,7 @@ h1: One day I will find the words, and they will be simple.
 ----
 Intro: Articles and thoughts by Matej Latin
 ----
+Opacity: 0.3
+----
 Author: Jack Kerouac
 

@@ -4,6 +4,8 @@ Date: 2013-06-15
 ----
 Intro: Stray Bikes is a simple app that shows the user where the closest rental bike stations are and their availability of the bikes.
 ----
+Opacity: 0.2
+----
 Text:
 
 The idea for the app is very simple. Detect user's location and show him where near bike stations are on the map. The colors of the icons tell the user what the availability of bikes and parking spaces on each station is.
