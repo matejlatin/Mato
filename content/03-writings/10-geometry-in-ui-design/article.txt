@@ -5,7 +5,9 @@ Date: 2013-12-19
 Related:
 - writings/dead-end-projects-in-freelancing
 ----
-Intro: Because automatic alignment sometimes just doesn’t work.
+Intro: Because automatic alignment sometimes just doesn't work.
+----
+Opacity: 0.2
 ----
 Text:
 

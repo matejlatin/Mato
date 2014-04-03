@@ -7,6 +7,8 @@ Related:
 ----
 Intro: You can't try to do things, you must simply do them. This book is full of advices on how to become productive.
 ----
+Opacity: 0.4
+----
 Text:
 
 

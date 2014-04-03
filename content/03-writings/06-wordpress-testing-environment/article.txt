@@ -7,6 +7,8 @@ Related:
 ----
 Intro: Local WordPress backup environment can save you time and issues you could have when upgrading & testing on a live website.
 ----
+Opacity: 0.4
+----
 Text:
 
 So let’s assume we have a website and that we update and then test it on a weekly basis. That’s quite often, I guess. Your visitors’ experience with the website may be influenced when you update and test these updates on a live website. Even the smallest updates can result in an error, design issue or missing content on the website. And that’s something we try to avoid by setting up a local backup environment for developing and testing purposes.

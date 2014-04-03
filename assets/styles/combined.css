@@ -775,14 +775,6 @@ figcaption a {
 }
 
 /* Home */
-.home {
-    background: url(../images/index.jpg) center center;
-    background-size: cover;
-    margin: 0;
-}
-.homeBg {
-    background: rgba(64,64,52,0.4);
-}
 .welcome {
     padding: 30% 0;
 }

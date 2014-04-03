@@ -7,6 +7,8 @@ Related:
 ----
 Intro: To speed up your website, you first have to find out what's slowing it down.
 ----
+Opacity: 0.4
+----
 Text:
 
 Today, I’ll try to explain how to speed up your website with a little help from Pingdom Tools. I like to use it because of its’ Waterfall view, which clearly shows how long it takes to load each element on your website.

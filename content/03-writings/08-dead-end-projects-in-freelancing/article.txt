@@ -7,6 +7,8 @@ Related:
 ----
 Intro: Dead end projects are the ones that take a lot of time, but you still get nowhere near the final product.
 ----
+Opacity: 0.3
+----
 Text:
 
 

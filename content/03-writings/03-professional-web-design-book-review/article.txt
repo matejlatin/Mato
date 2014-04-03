@@ -7,6 +7,8 @@ Related:
 ----
 Intro: A collection of 11 best web design articles from Smashing Magazine on more than 200 pages.
 ----
+Opacity: 0.4
+----
 Text:
 
 This is a collection of the best articles posted on Smashing Magazine about webdesign. It is the first such collection, but there is also a [Professional Web Design vol. 2](http://www.smashingmagazine.com/ebooks/).

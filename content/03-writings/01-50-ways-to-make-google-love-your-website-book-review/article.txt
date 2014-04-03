@@ -4,6 +4,8 @@ Date: 2012-04-16
 ----
 Intro: 50 Ways to Make Google Love Your Website by Steve Johnston is a short and basic book about the Google search engine.
 ----
+Opacity: 0.4
+----
 Related:
 - writings/simple-and-usable-design-book-review
 ----

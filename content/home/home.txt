@@ -10,6 +10,10 @@ Author: Matej Latin
 
 ----
 
+Opacity: 0.2
+
+----
+
 Text:
 
 I'm Matej, a Germany based UX, UI & Web designer at wondermags.
