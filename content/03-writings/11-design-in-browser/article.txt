@@ -1,0 +1,20 @@
+Title: (Re)Adopting the Design-in-Browser Approach
+----
+Date: 2014-04-03
+----
+Related:
+- writings/geometry-in-ui-design
+----
+Intro: It seemed hard and maybe even impossible. I was scared. Could I do this? But how hard could it be? I've done this before...
+----
+Opacity: 0.5
+----
+Text:
+
+I got so used to designing (drawing) websites in Adobe Photoshop that I didn’t know where to start. Then I realized that I had already done it in the past with far worse tools then the ones we use now. Web design is not graphic design. It may consist of some of the elements of graphic design but it’s not the same. So why did we start drawing websites in Photoshop in the first place?
+
+##Full Story on Designmodo
+
+I wrote this article for Designmodo.com and it triggered quite a debate. While lots of people agreed, some also disagreed with the idea of skipping Photoshop in web design process.
+
+[Read full article on Designmodo →](http://designmodo.com/designing-browser/)
