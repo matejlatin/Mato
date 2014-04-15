@@ -46,4 +46,4 @@ Simple and Usable Design is something every designer should try to achieve in ev
 
 (quote: Giles Colborne text: People won't always follow the path you set.)
 
-In the end, we can only try to achieve simplicity and usability for the users. There's many stakeholders in the design process and the end products is usually a compromise, something to please all of them. But, as Giles puts it, we should always prioritize features that satisfy mainstreamers' needs with minimal effort.
+In the end, we can only try to achieve simplicity and usability for the users. There's many stakeholders in the design process and the end product is usually a compromise, something to please all of them. But, as Giles puts it, we should always prioritize features that satisfy mainstreamers' needs with minimal effort.
