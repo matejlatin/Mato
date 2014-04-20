@@ -11,24 +11,63 @@ Opacity: 0.4
 ----
 Text:
 
-Don’t Make Me Think by Steve Krug is probably the best book about web usability. It’s one of the books every web designer should read and keep it on the bookshelf. The book was first released in 2000, so it’s actually 12 years old. But it hasn’t sold more than 300.000 copies for nothing.
+Don't Make Me Think by Steve Krug is probably the best book about web usability. It's one of the books every web designer should read and keep it on the bookshelf. The book was first released in 2000, so it's actually 12 years old. But it hasn't sold more than 300.000 copies for nothing.
 
-##12 Years Old But…
+##"Don't Make Me Think!"
 
-I’ve read the 2nd edition, which was released in 2005, consisting of additional chapters, but those seemed a little forced to me. Steve wrote at the beginning of the book that he didn’t want to release the 2nd edition of the book, because he wanted it to be short, which was his original goal.
+Steve Krug starts off by telling that this is his first law of usability. If there's a rule that web designers should try to find space in their heads for, it's this one.
 
-Well those added chapters don’t make it that longer to read, but could easily be left out. In my opinion they don’t really add any real value to the book.
+(quote: Steve Krug also suggests. text: Get rid of half the words on each page, then get rid of half of what's left.)
 
-##Great Examples
+What he means with this rule is that the Web page should be self-evident, obvious, self-explanatory. Everyone should be able to "get it" - what it is and how to use it - without expending any effort thinking about it.
 
-What I really liked about this book were the good examples Steve uses to explain himself. It really make this book easy to read and puts a great value to this book. There were some times when I thought to myself: “Oh, I really didn’t think of that in this way.”
+Steve quickly explains it better with two really good examples. Use of words for links and style of links / buttons.
 
-As a webdesigner I found this book as a real good and solid basis for further knowledge about design and user experience.
+(figure: 00.jpg caption: Using the right words. title: Using the right words)
 
-##Bottom line
+(figure: 01.jpg caption: What is a button? title: What is a button?)
 
-Don’t make your users think when they use your product. Everything should be as simple as it’s possible.
+He also gives a nice example with the search functionality on websites, which often seems to be overcomplicated for no particular reason. Here are some more examples of questions that users should never spend their time thinking about:
 
-__Good:__ Short, easy to read, price, great value, good examples.
+- Where am I?
+- Where should I begin?
+- Where did they put ___?
+- What are the most important things on this page?
+- Why did they call it _that_?
 
-__Bad:__ A few chapters didn’t seem to fit this book.
+##How  We Really Use the Web
+
+Anyone, who has spent some time studying users while using the web, will have a good idea of how users _really_ use it. You can even try to study yourself when you're searching for something on the web. you'll see that we all fall in this pattern. We never really read the web pages, we scan them.
+
+(figure: 02.jpg caption: How we really use the web. title: How we really use the web)
+
+**Here are 3 facts of life as Steve calls them:**
+
+1. We don't read pages. We scan them.
+2. We don't make optimal choices. We satisfice.
+3. We don't figure out how things work. We muddle through.
+
+##How Can We Help the User?
+
+Steve goes on with suggesting these five ways to help the user finding what he's looking with scanning the page. 
+
+**Create a Clear Visual Hierarchy**
+The more important something is, the more prominent it is. It's as simple as that. For example, the most important headings are either larger and bolder. Make things that are related logically also related visually. Visually nesting things makes it easier to understand what's part of what.
+
+**Take Advantage of Conventions**
+Every medium has it's own conventions. Web design got it's mostly from newspapers and magazines. What is a convention? A user can understand what each part of the website is, even if it's in a foreign language.
+
+**Break Pages Up Into Clearly Defined Areas**
+Clearly define what each part of the web page is by using backgrounds, whitespace, borders and other elements. It's as simple as that.
+
+**Make it Obvious What's Clickable**
+It's very annoying when you don't know where to click to get the full story. It's like that for everyone so avoid it. Links should be underlined, buttons should clearly be buttons. In this era, when flat design is very popular, this is a very important guideline.
+
+**Minimie Noise**
+Steve categorizes the noise into two categories. Busy-ness and Background noise. The former is when everything screams for attention and a user doesn't know what to focus on. The latter is when lots of tiny bits make it a little harder to scan through the page.
+
+##And a Lot More
+
+This is a great book, although it' short. Or maybe because of that. Every chapter offers great theory combined with great examples. I read this book twice and I always pick up something new from it.
+
+You can find out [more about Steve Krug and his work on Advanced Common Sense](http://www.sensible.com/).
