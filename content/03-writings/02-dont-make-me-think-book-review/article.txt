@@ -11,7 +11,7 @@ Opacity: 0.4
 ----
 Text:
 
-Don't Make Me Think by Steve Krug is probably the best book about web usability. It's one of the books every web designer should read and keep it on the bookshelf. The book was first released in 2000, so it's actually 12 years old. But it hasn't sold more than 300.000 copies for nothing.
+Don't Make Me Think by Steve Krug is probably the best book about web usability out there. It's one of the books every web designer should read and keep it on his bookshelf. The book was first released in 2000, so it's quite old. But it's still very current.  It hasn't sold more than 300.000 copies for nothing.
 
 ##"Don't Make Me Think!"
 
