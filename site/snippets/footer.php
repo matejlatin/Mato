@@ -89,13 +89,13 @@
         //]]>
 
         // Fade to white on link click
-        $('.mainMenu a, .logo a, .btn, .menuToggle li a').click(function(e){
-            window.goto=$(this).attr("href");
-            $('#preloader').fadeIn('fast',function(){
-              document.location.href=window.goto;
-            });
-            e.preventDefault();
-        });
+        // $('.mainMenu a, .logo a, .btn, .menuToggle li a').click(function(e){
+        //     window.goto=$(this).attr("href");
+        //     $('#preloader').fadeIn('fast',function(){
+        //       document.location.href=window.goto;
+        //     });
+        //     e.preventDefault();
+        // });
 
         <?php if ($page->title() == 'Work'): ?>
             // JRIBBBLE
