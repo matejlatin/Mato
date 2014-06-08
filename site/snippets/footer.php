@@ -70,7 +70,7 @@
         $(document).ready(function() {
 
         $(window).scroll( function(){
-            $('.tweet, .mapBg img').each( function(i){
+            $('.tweet, .mapBg img, img').each( function(i){
                 var bottom_of_object = $(this).position().top + $(this).outerHeight();
                 var bottom_of_window = $(window).scrollTop() + $(window).height();
                 if( bottom_of_window > bottom_of_object ){
@@ -83,9 +83,9 @@
         // Preloader
         //<![CDATA[
             $(window).on('unload load', function() { // makes sure the whole site is loaded
-                $('#preloader').delay(100).fadeOut(500); // will fade out the white DIV that covers the website.
-                $('body').delay(350).css({'overflow':'visible'});
-            })
+                $('#preloader').delay(100).fadeOut(400); // will fade out the white DIV that covers the website.
+                $('body').delay(250).css({'overflow':'visible'});
+            });
         //]]>
 
         // Fade to white on link click
@@ -107,7 +107,7 @@
                 });
 
                 $('#shotsByPlayerId').html(html.join(''));
-            }, {page: 1, per_page: 8});
+            }, {page: 1, per_page: 10});
         <?php endif; ?>
 
         $(".arrow a").click(function() {
@@ -117,8 +117,10 @@
         });
 
         // Unveil
-        $(document).ready(function() {
-          $("img").unveil(200);
+        $("img").unveil(200, function() {
+          $(this).load(function() {
+            this.style.opacity = 1;
+          });
         });
 
         // Google Analytics

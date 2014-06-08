@@ -436,6 +436,8 @@ p img {
     text-align: center;
     margin: 0 auto;
     max-width: 100%;
+    opacity: 0;
+    transition: opacity .15s ease-in;
 }
 hr {
     width: 50px;
@@ -671,11 +673,11 @@ blockquote hr {
 
 /* Headings */
 h1, h2 {
-    text-align: center;
     line-height: 1.138em;
     color: #222;
 }
 h1 {
+    text-align: center;
     margin: 0 auto;
     font-size: 2.25em;
     padding: 0 3%;
@@ -868,7 +870,7 @@ figure img {
         margin: 1.773em auto 0.618em;
         line-height: 1.096em;
         font-size: 1.773em;
-        max-width: 40rem;
+        max-width: 43.75rem;
     }
     .extract, .welcome {
         font-size: 1.618em;
@@ -928,7 +930,7 @@ figure img {
         margin: 0 auto;
     }
     #shotsByPlayerId li {
-        width: 25%;
+        width: 20%;
     }
 }
 

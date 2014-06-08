@@ -19,7 +19,7 @@ This tutorial will show you how to:
 - solve these page load speed problems,
 - consequently decrease the page load time to speed up your website.
 
-##1. Detecting Page Load Speed Problems
+##Detecting the Speed Problems
 
 This is the most crucial step. If your website takes long time to load you have to improve on your load speed and detecting and identifying the page load speed problems is the first step.
 
@@ -39,24 +39,21 @@ The Waterfall view is the best to identify the files that slow down your page lo
 
 But I can tell you what happened in my case and how I sped up my website. Read on.
 
-##2. Solving the Page Load Speed Problems
+##Solving the Speed Problems
 
 This is the tricky part of the website speeding up. When you find out what causes your website to load slowly, it’s time to act, based on the findings from the first step.
 
 In my case these were:
 
 __Timthumb Lag__
-
 I noticed that every Timthumb cropped image file on my website took very long time to load. We’re talking about almost a second for each of them. That’s why I decided to ditch the Timthumb script and resize images with the built-in WordPress features. The results improved dramatically.
 
 __Big PNGs Load Slowly__
-
 The second problem I detected were the big png images i had in the slider. They were more than 100 Kb each and three of them. That’s almost 0.5 Mb and they took a while to load even on very fast broadband connections.
 
 I know that many internet users now have unlimited fast connection to the internet but we still have to think about those who don’t or access our website from a mobile device.
 
 __Combine the CSS and JS Files__
-
 WordPress is great and the plugins make it irreplaceable. But the main disadvantage of using many plugins is that each has it’s own CSS file and more and more often even it’s own JS file. The more of these there are, the longer it takes to load the page.
 
 (image: 04-pingdom-tools-css-js.jpg)
@@ -64,7 +61,6 @@ WordPress is great and the plugins make it irreplaceable. But the main disadvant
 So to speed up your website you should try to combine these in one file for the CSS and one for the JS, if possible. These is not something you can do  in a short time but it can drastically affect the page load speed.
 
 __One Page Love Award Took a While to Load__
-
 I received this award for my one-page website and put it on the top right part of my website. I noticed, that for some reason it took a while to load, even though it’s not a big file. Later I saw, that it’s being loaded from another server, not my own. So I simply uploaded the image to my server and changed the url in my CSS file.
 
 It took almost one second to load a 1.7 Kb image file. Way too long.
