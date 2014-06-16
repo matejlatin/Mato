@@ -436,8 +436,10 @@ p img {
     text-align: center;
     margin: 0 auto;
     max-width: 100%;
+}
+article img {
     opacity: 0;
-    transition: opacity .15s ease-in;
+    transition: opacity 0.4s ease-in;
 }
 hr {
     width: 50px;
@@ -452,7 +454,18 @@ hr {
     display: table-cell;
     vertical-align: middle;
 }
-/* Text align to center  */
+/* Floats */
+.alignRight {
+    float: right;
+}
+.alignLeft {
+    float: left;
+}
+.alignCenter {
+    display: block;
+    margin: 0 auto;
+}
+/* Text alignment  */
 .txtCenter {
     text-align: center;
 }
@@ -592,11 +605,6 @@ nav>ul>li>ul {
     display: none;
 }
 
-/* Preloader */
-body {
-    overflow: hidden;
-}
-
 /* Minor Fixes */
 img.typekit-badge {
     display: none!important;
@@ -669,8 +677,8 @@ h1 {
 }
 h2 {
     font-size: 1.707em;
-    margin: 1.707em auto 0.667em;
-    max-width: 80%;
+    margin: 1.707em 5% 0.667em;
+    max-width: 90%;
 }
 h3 {
     font-size: 1.5em;
@@ -687,6 +695,7 @@ aside h4, .post h4, article h4, .post time {
 }
 article h4 {
     font-size: 16px;
+    text-align: center;
 }
 .logo h1 {
     font-size: 30px;
@@ -783,6 +792,79 @@ figcaption a {
 #shotsByPlayerId a {
     display: block;
 }
+/* GAC */
+.twitter-tweet {
+    margin: 40px auto!important;
+}
+.gacGoals {
+    font-size: 70%;
+    text-align: center;
+}
+.gacGoalsLi ul {
+    width: 100%;
+}
+.gacGoalsLi li {
+    max-width: 25%;
+    display: inline-table;
+}
+.gacKpis li {
+    width: 30%;
+    display: inline-block;
+}
+.chartGreen {
+    background-color: #f7f7f7;
+    background-image: url(../images/gacBgChartGreen.png);
+    background-size: cover;
+    padding: 200px 0 10px;
+}
+.chartOrange {
+    background-color: #65c590;
+    background-image: url(../images/gacBgChartOrange.png);
+    background-size: cover;
+    padding: 200px 0 10px;
+}
+.chartBlue {
+    background-color: #72dfa3;
+    background-image: url(../images/gacBgChartBlue.png);
+    background-size: cover;
+    padding: 200px 0 10px;
+}
+.stats {
+    color: #ffffff;
+}
+.stats p {
+    color: #ffffff;
+    font-size: 80%;
+    text-align: center;
+    max-width: 25em;
+}
+.stats table {
+    margin: 0 auto;
+    font-weight: bold;
+}
+.bigNumber {
+    font-size: 2.618em;
+    line-height: 100%;
+}
+.bgGreen {
+    background: #7aefaf;
+}
+.bgGreen h4, .bgGreen blockquote, .bgGreen blockquote footer, .bgGreen h2, .bgGreen p, .bgGreen ul, .bgGreen a, .bgGreen .twMatejlatin {
+    color: #ffffff;
+    font-style: normal;
+    border-color: #ffffff;
+    fill: #fff;
+}
+.bgGreen .logoTw {
+    fill: #81fcb9;
+}
+.bgGreen h4 {
+    margin-top: 10em;
+}
+.killMargins {
+    margin-bottom: 0;
+}
+
 /* Writings */
 .articlesList section:first-child {
     margin-top: 4%;
@@ -811,6 +893,10 @@ figure {
 figure img {
     width: 100%;
     max-width:  700px;
+}
+.fullWidth {
+    width: 100%;
+    max-width: 100%;
 }
 
 /* Posts */

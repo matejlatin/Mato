@@ -1,6 +1,4 @@
 <?php snippet('header') ?>
-<?php snippet('menu') ?>
-<?php snippet('submenu') ?>
 
 <section class="content">
 
@@ -11,4 +9,5 @@
 
 </section>
 
+<?php echo js('assets/js/combined.min.js?123') ?>
 <?php snippet('footer') ?>

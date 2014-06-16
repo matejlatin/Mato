@@ -1,0 +1,69 @@
+Title: Web & UI Design for Get a Copywriter
+----
+Date: 2013-02-12
+----
+Intro: Get a Copywriter is an Australian start-up, providing the copywriting services from copywriters around the world.
+----
+Opacity: 0.6
+----
+Text:
+
+Get a Copywriter is a web application that provides copywriting services from native English speakers around the world. It launched for the first time in the middle of 2012. And now, the authors wanted to take it to the next level. They wanted to go from a small-time website to a trustworthy service provider.
+
+The quality of the services they provided so far were already of high quality. But the old website just didn't present them as a quality provider. That's why they decided to redesign it.
+
+(figure: 00.jpg caption: Get a Copywriter Homepage before redesign. title: Old Get a Copywriter Homepage)
+
+The old website looked like a website for a medium or even low quality services company. It looked like a startup from 00's instead of a modern startup. And when it comes to user engagement, there was none. There was only one button that called to an action - the one close to the cheesy stock photo lady.
+
+##The Redesign
+
+But, as I mentioned before, Get a Copywriter was no medium or low quality services company. Basically, they had already made the steps to the next level. Now they needed their website to follow them.
+
+(figure: 01b.jpg caption: Get a Copywriter Homepage at relaunch on April 20 2013. title: Get a Copywriter Homepage)
+
+We started by redesigning the homepage with the most important element - the _Order content_ form. I had to try to make it stand out from the rest of the page design. The idea was to somehow merge it with the background photo to get that clean and clutter-free look.
+
+**Above the fold**
+The client wanted to have as much information as possible above the page fold. That's the reason why we didn't make their tagline a lot bigger. We had to make a compromise there but I think it still gets enough attention which is it's main purpose. And it still looks very nice.
+
+**The tagline**
+I think I would make the tagline stand out a bit more by using a heavier weight typeface. But the client already decided on the specific typeface they wanted so that wasn't an option.
+
+**The background photo**
+We put a lot of time and thought into the background photo selection. We had a different one in early designs but decided to change it later. We decided for a photo that looked the most warm and cozy.
+
+----
+Text2:
+
+##Pixel Perfect
+
+**Wireframes to Designs**
+Every page of the website had a very detailed wire-frame to start with. And we paid a lot of attention to each page design until it was pixel perfect.
+
+(figure: 05.jpg class: fullWidth title: Get a Copywriter Sub-pages)
+
+**Handcrafted Icons**
+The wire-frames that client provided used a lot of stock photos. In my opinion it didn't really suit the project, the style of the design or the company itself. I suggested using icons instead. The client felt the same way so a lot of icons were designed during this project.
+
+I was thinking about using the same color for all the icons, aiming for a clean look, but the client wanted different and especially strong colors for all the icons. It turned out it was a good move in the end.
+
+<div class="txtCenter">(image: 03.gif title: Colorful icons)</div>
+
+----
+Text3:
+
+##Back-End Design
+
+After all the website pages were successfully completed, we moved on to designing the administration. Building a trustworthier presence would be impossible without a good, transparent and clear ordering process. We intentionally made it very different and much simpler from how the website looks. The user must have a very clear overview of his current orders.
+
+(figure: 06.png class: fullWidth title: Get a Copywriter Admin)
+
+**More Icons**
+We used a lot more icons in the back-end. We used icons for product types, for the level and length of the text they provided and the usual user options and settings. Every back-end needs good icons. Here are all the icons we used.
+
+(figure: 07.png title: More Custom Icons)
+
+##Success!
+
+One year after the redesign was launched, we can comfortably say that all the goals were achieved. But more importantly, they built a trustworthier presence on the market and increased the user engagement. All these facts are firmly backed by the analytics, the client and the happy users.

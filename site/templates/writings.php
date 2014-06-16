@@ -1,5 +1,5 @@
 <?php snippet('header') ?>
-<div  class="intro light writings">
+<div class="intro light writings">
     <div class="verticalCenter homeBg">
         <h1><?php echo html($page->h1()) ?></h1>
         <time><?php echo html($page->author()) ?></time>
@@ -24,4 +24,5 @@
 
 </article>
 
+<?php echo js('assets/js/combined.min.js?123') ?>
 <?php snippet('footer') ?>
