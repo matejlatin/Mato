@@ -1,0 +1,22 @@
+Title: A User in Total Control is a Designer's Nightmare
+----
+Date: 2014-06-16
+----
+Related:
+- writings/who-do-we-design-for
+----
+Intro: How do you balance the creative control you give to the users, the usability of the product they make with your tool and the flexibility of that tool?
+----
+Opacity: 0.5
+----
+Text:
+
+We designers have always had a problem of handing over creative control to the general population — the basic users. There are two reasons for this. The first is obvious: We are the ones who are supposed to know the principles of design and usability. Some of us were born with this feeling of what feels and looks right, while other designers have learned it — at least good designers eventually have.
+
+The second reason is that, unlike users, we see the world in another way. We see what can be done to improve the things we use every day. For example, we might remember a restaurant not by its name or location, but by its poorly chosen typeface for the logo, as Tobias Frere-Jones recalls in the movie Helvetica.
+
+##Full Story on Smashing Magazine
+
+I was invited to write this article for Smashing Magazine by one of their editors. To read the full article, please visit Smashing Magzine.
+
+[Read full article on Smashing Magazine →](http://www.smashingmagazine.com/2014/06/16/user-total-control-designers-nightmare/)
