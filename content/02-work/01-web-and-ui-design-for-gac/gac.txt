@@ -20,18 +20,27 @@ The old website looked like a website for a medium or even low quality services 
 
 But, as I mentioned before, Get a Copywriter was no medium or low quality services company. Basically, they had already made the steps to the next level. Now they needed their website to follow them.
 
-(figure: 01b.jpg caption: Get a Copywriter Homepage at relaunch on April 20 2013. title: Get a Copywriter Homepage)
+(figure: 01.jpg caption: Get a Copywriter Homepage at relaunch on April 20 2013. title: Get a Copywriter Homepage)
 
 We started by redesigning the homepage with the most important element - the _Order content_ form. I had to try to make it stand out from the rest of the page design. The idea was to somehow merge it with the background photo to get that clean and clutter-free look.
 
-**Above the fold**
+**Above the Fold**
 The client wanted to have as much information as possible above the page fold. That's the reason why we didn't make their tagline a lot bigger. We had to make a compromise there but I think it still gets enough attention which is it's main purpose. And it still looks very nice.
 
-**The tagline**
+**The Tagline**
 I think I would make the tagline stand out a bit more by using a heavier weight typeface. But the client already decided on the specific typeface they wanted so that wasn't an option.
 
-**The background photo**
+**The Background Photo**
 We put a lot of time and thought into the background photo selection. We had a different one in early designs but decided to change it later. We decided for a photo that looked the most warm and cozy.
+
+**The Color Palette**
+Get a Copywriter already had a logo they wanted to use. It's a nice logo so no changes were needed.
+
+(figure: gac-logo@2x.png caption: Get a Copywriter Logo title: Get a Copywriter Logo)
+
+The logo was a great source for the first and main color for the color palette of this project. We added two shades of gray, a light green and a sky blue color to that main green to get our palette.
+
+(figure: color-palette@2x.png caption: Get a Copywriter Color Palette title: Get a Copywriter Color Palette)
 
 ----
 Text2:
@@ -62,7 +71,7 @@ After all the website pages were successfully completed, we moved on to designin
 **More Icons**
 We used a lot more icons in the back-end. We used icons for product types, for the level and length of the text they provided and the usual user options and settings. Every back-end needs good icons. Here are all the icons we used.
 
-(figure: 07.png title: More Custom Icons)
+<div class="txtCenter">(image: 07.png title: Products Icons)</div>
 
 ##Success!
 
