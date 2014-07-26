@@ -997,8 +997,11 @@ figure img, img {
     #shotsByPlayerId li {
         width: 20%;
     }
-    figure {
+    figure img {
         max-width: 700px;
+    }
+    .fullWidth {
+        width: 100%;
     }
     .twitter-tweet {
     width: 500px!important;
