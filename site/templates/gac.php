@@ -32,7 +32,7 @@
     <?php echo kirbytext($page->text2()) ?>
     <div class="lightGray cf killMargins">
         <?php echo kirbytext($page->text3()) ?>
-        <div class="chartGreen">
+        <div class="chartOne gacChart">
             <div class="stats">
                 <table class="tg">
                   <tr>
@@ -46,7 +46,7 @@
                 <p>Average visit time has increased from 45 seconds to almost 6 minutes.</p>
             </div>
         </div>
-        <div class="chartOrange">
+        <div class="chartTwo gacChart">
             <div class="stats">
                 <table class="tg">
                   <tr>
@@ -60,7 +60,7 @@
             <p>Bounce rate dropped from almost 80% to aproximately 50%.</p>
             </div>
         </div>
-        <div class="chartBlue">
+        <div class="chartThree gacChart">
             <div class="stats">
                 <table class="tg">
                   <tr>

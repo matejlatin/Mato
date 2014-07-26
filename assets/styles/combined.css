@@ -795,6 +795,7 @@ figcaption a {
 /* GAC */
 .twitter-tweet {
     margin: 40px auto!important;
+    width: 90%!important;
 }
 .gacGoals {
     font-size: 70%;
@@ -811,23 +812,22 @@ figcaption a {
     width: 30%;
     display: inline-block;
 }
-.chartGreen {
+.gacChart {
+    background-position: center;
+    background-size: cover;
+    padding: 190px 0 10px;
+}
+.chartOne {
     background-color: #f7f7f7;
     background-image: url(../images/gacBgChartGreen.png);
-    background-size: cover;
-    padding: 200px 0 10px;
 }
-.chartOrange {
+.chartTwo {
     background-color: #65c590;
     background-image: url(../images/gacBgChartOrange.png);
-    background-size: cover;
-    padding: 200px 0 10px;
 }
-.chartBlue {
+.chartThree {
     background-color: #72dfa3;
     background-image: url(../images/gacBgChartBlue.png);
-    background-size: cover;
-    padding: 200px 0 10px;
 }
 .stats {
     color: #ffffff;
@@ -890,9 +890,9 @@ figure {
     margin: 4em auto;
     text-align: center;
 }
-figure img {
+figure img, img {
     /*width: 100%;*/
-    max-width:  700px;
+    max-width:  90%;
 }
 .fullWidth {
     width: 100%;
@@ -997,6 +997,12 @@ figure img {
     #shotsByPlayerId li {
         width: 20%;
     }
+    figure {
+        max-width: 700px;
+    }
+    .twitter-tweet {
+    width: 500px!important;
+}
 }
 
 /* Minor Fixes */
