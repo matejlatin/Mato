@@ -596,6 +596,9 @@ nav li a, nav li ul {
 .tw, .dr {
     fill: #fff;
 }
+.tw-dark, .dr-dark {
+    fill: #000;
+}
 nav>ul>li>ul {
     margin: 0;
     padding: 0;
@@ -769,6 +772,28 @@ figcaption a {
     padding: 30% 0;
 }
 /* About */
+ul.featured, ul.contacts {
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;
+}
+ul.featured a, ul.contacts a {
+    border: 0;
+}
+.featured li img {
+    max-width: 90%;
+    display: block;
+    margin: 0 auto 20px;
+}
+.contacts li {
+    width: 50%;
+    display: block;
+    float: left;
+    text-align: center;
+}
+.about h4 {
+    margin: 8% auto 4%;
+}
 /* Work */
 .articlesList h4 {
     margin: 4% auto;
@@ -1005,7 +1030,25 @@ figure img, img {
     }
     .twitter-tweet {
     width: 500px!important;
-}
+    }
+    .featured li {
+    width: 350px;
+    display: table-cell;
+    }
+    .featured li img {
+        max-width: 300px;
+        display: block;
+        margin: 0 auto;
+    }
+    ul.contacts {
+        max-width: 400px;
+    }
+    .contacts li {
+    width: 100px;
+    display: block;
+    float: left;
+    text-align: center;
+    }
 }
 
 /* Minor Fixes */
