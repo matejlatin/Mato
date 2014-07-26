@@ -68,6 +68,11 @@ After all the website pages were successfully completed, we moved on to designin
 
 (figure: 06.png class: fullWidth title: Get a Copywriter Admin)
 
+**Rating Icons**
+We didn't want to use the standard stars rating for the pitches rating. So we decided to create our own emoji icons for four different emotions.
+
+<div class="txtCenter">(image: gac-emoji.png title: Custom Rating Icons)</div>
+
 **More Icons**
 We used a lot more icons in the back-end. We used icons for product types, for the level and length of the text they provided and the usual user options and settings. Every back-end needs good icons. Here are all the icons we used.
 
