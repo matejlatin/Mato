@@ -902,19 +902,13 @@ ul.featured a, ul.contacts a {
 .tweet {
     opacity: 0;
     fill: #eaeaea;
+    -webkit-transition: all .2s ease;
+    -moz-transition: all .2s ease;
+    -o-transition: all .2s ease;
+    transition: all .2s ease;
 }
-#logoTw {
-    opacity: 0;
-}
-path.tweet {
-    fill: #eaeaea;
-    -webkit-transition: all .7s ease;
-    -moz-transition: all .7s ease;
-    -o-transition: all .7s ease;
-    transition: all .7s ease;
-}
-path.tweet:hover {
-    fill: #55ACEE;
+.tweet:hover {
+    fill: #55ACEE!important;
     -webkit-transform: scale(1.1) translate(-2.5px, -2.5px);
     -moz-transform: scale(1.1) translate(-2.5px, -2.5px);
     -o-transform: scale(1.1) translate(-2.5px, -2.5px);
