@@ -36,4 +36,4 @@
 </article>
 
 <?php echo js('assets/js/combined.min.js?123') ?>
-<?php snippet('footer') ?>
+<?php snippet('page-footer') ?>
