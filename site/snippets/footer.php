@@ -98,19 +98,6 @@
             });
         //]]>
 
-        <?php if ($page->title() == 'Work'): ?>
-            // JRIBBBLE
-            $.jribbble.getShotsByPlayerId('matejlatin', function (playerShots) {
-                var html = [];
-                $.each(playerShots.shots, function (i, shot) {
-
-                    html.push('<li><a href="' + shot.url + '"><img src="' + shot.image_url + '" alt="' + shot.title + '"></a></li>');
-                });
-
-                $('#shotsByPlayerId').html(html.join(''));
-            }, {page: 1, per_page: 10});
-        <?php endif; ?>
-
         $(".arrow a").click(function() {
             $('html, body').animate({
                 scrollTop: $("article").offset().top
