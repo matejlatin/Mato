@@ -816,6 +816,7 @@ ul.featured a, ul.contacts a {
 #shotsByPlayerId img {
     max-width: 100%;
     float: left;
+    border: 0;
 }
 #shotsByPlayerId a {
     display: block;
@@ -1155,5 +1156,9 @@ figure img, img {
         .logo h1 {
             padding: 0;
             line-height: 1.4;
+        }
+        #shotsByPlayerId {
+            max-width: 2000px;
+            margin: inherit auto;
         }
     }

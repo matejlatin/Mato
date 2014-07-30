@@ -22,7 +22,16 @@
   <?php endforeach ?>
   <hr>
   <h4>LATEST DRIBBBLE SHOTS</h4>
-  <ul id="shotsByPlayerId" class="shotList cf"></ul>
+  <ul id="shotsByPlayerId" class="shotList cf">
+    <?php
+    $array = file_get_contents('http://api.dribbble.com/players/matejlatin/shots');
+    $obj = json_decode($array,true);
+
+    foreach(array_slice($obj['shots'], 0, 10) as $item) {
+       echo "<li><a href='". $item['url'] ."'><img src='". $item['image_url'] ."' alt='". $item['title'] ."' /></a></li>";
+     }
+     ?>
+  </ul>
   <p>
     <a href="http://dribbble.com/matejlatin">View more on Dribbble &#8594;</a>
   </p>
