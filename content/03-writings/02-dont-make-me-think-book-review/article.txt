@@ -17,7 +17,7 @@ Don't Make Me Think by Steve Krug is probably the best book about web usability 
 
 Steve Krug starts off by telling that this is his first law of usability. If there's a rule that web designers should try to find space in their heads for, it's this one.
 
-(quote: Steve Krug also suggests. text: Get rid of half the words on each page, then get rid of half of what's left.)
+(quote: Steve Krug suggests. text: Get rid of half the words on each page, then get rid of half of what's left.)
 
 What he means with this rule is that the Web page should be self-evident, obvious, self-explanatory. Everyone should be able to "get it" - what it is and how to use it - without expending any effort thinking about it.
 
@@ -63,11 +63,11 @@ Clearly define what each part of the web page is by using backgrounds, whitespac
 **Make it Obvious What's Clickable**
 It's very annoying when you don't know where to click to get the full story. It's like that for everyone so avoid it. Links should be underlined, buttons should clearly be buttons. In this era, when flat design is very popular, this is a very important guideline.
 
-**Minimie Noise**
+**Minimise Noise**
 Steve categorizes the noise into two categories. Busy-ness and Background noise. The former is when everything screams for attention and a user doesn't know what to focus on. The latter is when lots of tiny bits make it a little harder to scan through the page.
 
 ##And a Lot More
 
-This is a great book, although it' short. Or maybe because of that. Every chapter offers great theory combined with great examples. I read this book twice and I always pick up something new from it.
+This is a great book, although it's short. Or maybe because of that. Every chapter offers great theory combined with great examples. I read this book twice and I always pick up something new from it.
 
 You can find out [more about Steve Krug and his work on Advanced Common Sense](http://www.sensible.com/).
