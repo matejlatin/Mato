@@ -884,8 +884,8 @@ ul.featured a, ul.contacts a {
     border-color: #ffffff;
     fill: #fff;
 }
-.bgGreen .logoTw {
-    fill: #81fcb9;
+.bgGreen .tweet {
+    fill: #fff!important;
 }
 .bgGreen h4 {
     margin-top: 10em;
@@ -1115,7 +1115,7 @@ figure img, img {
             height: 22%;
         }
     }
-    /* Main menu on screens larger than 960px */
+    /* Screens larger than 960px */
     @media screen and (min-width: 960px){
         .btnMenu {
             display: none;
@@ -1157,8 +1157,13 @@ figure img, img {
             padding: 0;
             line-height: 1.4;
         }
+        @media screen and (min-width: 2000px){
         #shotsByPlayerId {
             max-width: 2000px;
             margin: inherit auto;
+        }
+        #shotsByPlayerId img, #shotsByPlayerId li {
+            max-width: 400px;
+        }
         }
     }
