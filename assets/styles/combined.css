@@ -1160,7 +1160,7 @@ figure img, img {
         @media screen and (min-width: 2000px){
         #shotsByPlayerId {
             max-width: 2000px;
-            margin: inherit auto;
+            margin: 0 auto 4%;
         }
         #shotsByPlayerId img, #shotsByPlayerId li {
             max-width: 400px;
