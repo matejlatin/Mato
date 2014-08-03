@@ -1,0 +1,81 @@
+Title: Introducing HTML5 Book Review
+----
+Date: 2014-05-30
+----
+Related:
+- writings/speed-up-your-website
+----
+Intro: After years of drawing websites, I decided it was time to dive back into coding a bit more.
+----
+Opacity: 0.4
+----
+Text:
+
+The HTML5 was already very popular when I decided to do so. I was trying to find a book that would tell me what's new in HTML5 and what's different from other HTML languages. I have always enjoyed coding. After all, I got into design by joining an after-class course of web design where we learned the basics of HTML. [I believe every web designer should know the basics of HTML and CSS](http://designmodo.com/designing-browser/).
+
+After some time browsing online, reading reviews and checking the tables of contents of some books, I decided to give the Introducing HTML5 a try.
+
+##Introducing HTML5
+
+Written by [Bruce Lawson](http://twitter.com/brucel) and [Remy Sharp](http://twitter.com/rem). I decided to buy this book because it looked like it covered all the basics of HTML5, new features and what's different from older versions. Soon, I found out that HTML5 is much more flexible than the older versions. It's a lot simpler, too.
+
+The doctype is very short and easy to remember. HTML5 doesn't care how you write the code. You can write it all in lowercase or uppercase letters, with or without the quotation marks.
+
+Every HTML5 tag can be written with or without quotes. There's no specific rule about that. That's one of the features that make HTML5 more flexible. So this...
+
+	<section class=foo>
+
+is the same as this
+
+	<section class="foo">
+
+Simple as that. You can write your HTML code as you wish now and it will still be valid.
+
+##Structuring a Page with HTML5
+
+This is what I was interested in the most. What's up with all the semantics in HTML5?
+
+With all the flexibility and simplicity of the HTML5, it's very easy to structure a basic HTML page. There is a whole chapter in this book that focuses on building a basic blog page with HTML5.
+
+**New Semantic Elements**
+
+slika
+
+New elements like header, section, nav, article, aside, footer and others clearly define different parts of a web page. They're called semantic elements, because they tell the browser, the developer as well as the crawling search engine robot what each part of the website is.
+
+But the header element isn't necessarily the header of the web page. It can be a header inside a section. The same goes for footer and most of the elements.
+
+**Headings Levels**
+This can seem quite complicated in the beginning, but with HTML5 you can use multiple h1 tags in one web page. Something that was not recommended in previous versions of HTML. But in HTML5, the heading level will be defined by the number of nested elements it's in. So this...
+
+	<body>
+		<article>
+			<h1>HTML5 Books</h1>
+			<section>
+				<h1>Introducing HTML5</h1>
+			</section>
+			<section>
+				<h1>HTML5 for Web Designers</h1>
+			</section>
+		</article>
+	</section>
+
+will result in a document outline like this:
+
+- HTML5 Books
+	- Introducing HTML5
+	- HTML5 for Web Designers
+
+You can still override the default styling with CSS but the levels of headings will remain like this. You can read more [HTML5 headings here](http://webdesign.tutsplus.com/articles/the-truth-about-multiple-h1-tags-in-the-html5-era--webdesign-16824).
+
+##New Form Elements
+
+##Advanced Topics
+
+##Conclusion
+
+It turns out that HTML5 isn't quite so simple and basic as I thought in the beginning. In fact it's very sophisticated and offers a lot more options to web developers. And I think that this book is more appropriate for them. It gives a nice introduction to the whole HTML5, not just the basics. I found almost half of the chapters in this book too advanced for me.
+
+I found out later that there's a book more appropriate for the likes of me. It's HTML5 For Web Designers. It focuses more on web design only, not also web development. In the end, this was still a good book for introducing someone to HTML5. Not for the people who are just learning HTML, but for the ones that are already deep in it.
+
+not so basic
