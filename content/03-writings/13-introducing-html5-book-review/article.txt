@@ -1,6 +1,6 @@
 Title: Introducing HTML5 Book Review
 ----
-Date: 2014-05-30
+Date: 2014-08-09
 ----
 Related:
 - writings/speed-up-your-website
@@ -21,61 +21,85 @@ Written by [Bruce Lawson](http://twitter.com/brucel) and [Remy Sharp](http://twi
 
 The doctype is very short and easy to remember. HTML5 doesn't care how you write the code. You can write it all in lowercase or uppercase letters, with or without the quotation marks.
 
-Every HTML5 tag can be written with or without quotes. There's no specific rule about that. That's one of the features that make HTML5 more flexible. So this...
+So this...
 
 	<section class=foo>
 
-is the same as this
+works just as fine as this...
 
 	<section class="foo">
 
-Simple as that. You can write your HTML code as you wish now and it will still be valid.
+Simple as that. You can write your HTML code as you wish now and it will still be valid. Using quotes keeps the code cleaner though.
 
 ##Structuring a Page with HTML5
 
-This is what I was interested in the most. What's up with all the semantics in HTML5?
-
 With all the flexibility and simplicity of the HTML5, it's very easy to structure a basic HTML page. There is a whole chapter in this book that focuses on building a basic blog page with HTML5.
 
-**New Semantic Elements**
+**New HTML5 Elements**
+This is the part of the book that I was most interested in. All these new, semantic HTML5 elements. There's quite a few of these but once you get used to them, you'll find it really simple to structure HTML5 documents. Then, you won't be even using divs anymore. Quite the opposite of what we used to do, right?
 
-slika
+(figure: 01.gif caption: Comparing HTML5 to the old XHTML. title: New & Semantic HTML5 elements.)
 
 New elements like header, section, nav, article, aside, footer and others clearly define different parts of a web page. They're called semantic elements, because they tell the browser, the developer as well as the crawling search engine robot what each part of the website is.
 
-But the header element isn't necessarily the header of the web page. It can be a header inside a section. The same goes for footer and most of the elements.
+But the header element isn't necessarily the header of the web page. It can be a header inside a section. The same goes for footer and most of the elements. Here's an example of an article structure in HTML5.
+
+(figure: 02.gif caption: Header used in the Article element. title: Header used in the Article element.)
+
+Bruce And Remy take on each new HTML5 element, describe it and give an example of use. They also let the reader know which of the old HTML elements were redefined and how.
 
 **Headings Levels**
 This can seem quite complicated in the beginning, but with HTML5 you can use multiple h1 tags in one web page. Something that was not recommended in previous versions of HTML. But in HTML5, the heading level will be defined by the number of nested elements it's in. So this...
 
-	<body>
-		<article>
-			<h1>HTML5 Books</h1>
-			<section>
-				<h1>Introducing HTML5</h1>
-			</section>
-			<section>
-				<h1>HTML5 for Web Designers</h1>
-			</section>
-		</article>
-	</section>
+	<article>
+		<h1>HTML5 Books</h1>
+		<section>
+			<h1>Introducing HTML5</h1>
+		</section>
+		<section>
+			<h1>HTML5 for Web Designers</h1>
+		</section>
+	</article>
 
 will result in a document outline like this:
 
 - HTML5 Books
-	- Introducing HTML5
+    - Introducing HTML5
 	- HTML5 for Web Designers
 
-You can still override the default styling with CSS but the levels of headings will remain like this. You can read more [HTML5 headings here](http://webdesign.tutsplus.com/articles/the-truth-about-multiple-h1-tags-in-the-html5-era--webdesign-16824).
+Which is perfectly right. You can still override the default styling with CSS but the levels of headings will remain like this. You can read more about [HTML5 headings here](http://webdesign.tutsplus.com/articles/the-truth-about-multiple-h1-tags-in-the-html5-era--webdesign-16824).
 
-##New Form Elements
+##New Input Types
+
+There's lots of these new input types. With them, HTML5 makes the development of forms quicker. And now we can skip most of the JavaScript validation, because HTML5 already provides that.
+
+*Email*, *url*, *date*, *time*, *number*, *search*, *tel* and *color* are the most popular new input types. Bruce and Remy describe and explain each of them in details. Here's a few of my favorites.
+
+**Email**
+Now we can check if the e-mail address, filled in this input is valid, without any JavaScript. Another feature that makes the email input type very cool is the fact that it comes with a keyboard optimized for filling in e-mail addresses on mobile devices.
+
+**Date**
+Comes with a browser default date selector. This means that the date selector will be different, depending on the browser the user uses. This is quite cool actually. The user will use the date selector he's most used to.
+
+**Tel**
+It stands for "telephone". I like this one, because it's very useful on mobile devices. It provides a keyboard that is optimized for filling in phone numbers.
+
+You can read more about the new [HTML5 input types here](http://html5doctor.com/html5-forms-input-types/).
 
 ##Advanced Topics
 
-##Conclusion
+Bruce and Remy don't just explain the basics of HTML5. They go into such details that an ordinary web designer doesn't need to know. Most of the time at least. After the first four chapters of the book, they start to rely on JavaScript code in the examples more and more often. Canvas, Data Storage, Drag and Drop, Geolocation are these kinds of chapters.
 
-It turns out that HTML5 isn't quite so simple and basic as I thought in the beginning. In fact it's very sophisticated and offers a lot more options to web developers. And I think that this book is more appropriate for them. It gives a nice introduction to the whole HTML5, not just the basics. I found almost half of the chapters in this book too advanced for me.
+But they do conclude the book with a very good chapter: Patching Old Browsers to Support HTML5 Today. Which is pretty much what the title indicates.
 
-I found out later that there's a book more appropriate for the likes of me. It's HTML5 For Web Designers. It focuses more on web design only, not also web development. In the end, this was still a good book for introducing someone to HTML5. Not for the people who are just learning HTML, but for the ones that are already deep in it.
+##HTML5 Rocks!
 
-not so basic
+(figure: 03.gif caption: HTML5 is the future of the web. title: HTML5 is the future.)
+
+HTML5 seems very simple at the beginning but more you dive into it, the more it turns out that HTML5 isn't quite so simple and basic. In fact it's very sophisticated and offers a lot more options to web developers. And I think that this book is more appropriate for them. It gives a nice introduction to the whole HTML5, not just the basics. I found almost half of the chapters in this book too advanced for me.
+
+I really enjoyed this book, despite the fact that some chapters were too advanced for me. It's very easy to read, well structured and full of great examples.
+
+I found out later that there's a book more appropriate for the likes of me. It's HTML5 For Web Designers. It focuses more on web design only, not also web development. In the end, this was still a good book for introducing someone to HTML5. Not for the people who are just learning HTML, but for the ones that are very familiar and comfortable with HTML.
+<script src="/assets/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>

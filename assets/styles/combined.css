@@ -612,6 +612,9 @@ nav>ul>li>ul {
 img.typekit-badge {
     display: none!important;
 }
+ul li ul, ol li ol {
+    margin-top: -10px;
+}
 
 /* Main Text - 16px perfect fifth */
 p, ul, ol {
@@ -620,6 +623,7 @@ p, ul, ol {
     line-height: 1.5em;
     font-weight: normal;
 }
+
 p strong {
     font-weight: 700;
 }
@@ -759,7 +763,16 @@ figcaption a {
     font-family: Georgia, serif;
     color: #999;
 }
-
+/* Code */
+pre {
+    background: #f8f8f8;
+    padding: 1% 0;
+    margin: 4% 0;
+}
+pre code {
+    max-width: 90%;
+    margin: 1% auto;
+}
 
 /* Backgrounds */
 .lightGray {
@@ -1017,6 +1030,9 @@ figure img, img {
     ol, ul {
         padding-left: 2.5em;
     }
+    ul li ul, ol li ol {
+        margin-top: -20px;
+    }
     aside h3, section h2 {
         margin: 0 auto 1.7rem;
     }
@@ -1047,11 +1063,11 @@ figure img, img {
         width: 100%;
     }
     .twitter-tweet {
-    width: 500px!important;
+        width: 500px!important;
     }
     .featured li {
-    width: 350px;
-    display: table-cell;
+        width: 350px;
+        display: table-cell;
     }
     .featured li img {
         max-width: 300px;
@@ -1062,10 +1078,13 @@ figure img, img {
         max-width: 400px;
     }
     .contacts li {
-    width: 100px;
-    display: block;
-    float: left;
-    text-align: center;
+        width: 100px;
+        display: block;
+        float: left;
+        text-align: center;
+    }
+    pre code {
+        max-width: 700px;
     }
 }
 
@@ -1167,3 +1186,146 @@ figure img, img {
         }
         }
     }
+
+/* HIGHLIGHT.JS */
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  color: black;
+}
+
+.hljs-comment,
+.hljs-template_comment,
+.hljs-javadoc {
+  color: #800;
+}
+
+.hljs-keyword,
+.method,
+.hljs-list .hljs-title,
+.clojure .hljs-built_in,
+.nginx .hljs-title,
+.hljs-tag .hljs-title,
+.setting .hljs-value,
+.hljs-winutils,
+.tex .hljs-command,
+.http .hljs-title,
+.hljs-request,
+.hljs-status {
+  color: #008;
+}
+
+.hljs-envvar,
+.tex .hljs-special {
+  color: #660;
+}
+
+.hljs-string,
+.hljs-tag .hljs-value,
+.hljs-cdata,
+.hljs-filter .hljs-argument,
+.hljs-attr_selector,
+.apache .hljs-cbracket,
+.hljs-date,
+.hljs-regexp,
+.coffeescript .hljs-attribute {
+  color: #080;
+}
+
+.hljs-sub .hljs-identifier,
+.hljs-pi,
+.hljs-tag,
+.hljs-tag .hljs-keyword,
+.hljs-decorator,
+.ini .hljs-title,
+.hljs-shebang,
+.hljs-prompt,
+.hljs-hexcolor,
+.hljs-rules .hljs-value,
+.hljs-literal,
+.hljs-symbol,
+.ruby .hljs-symbol .hljs-string,
+.hljs-number,
+.css .hljs-function,
+.clojure .hljs-attribute {
+  color: #066;
+}
+
+.hljs-class .hljs-title,
+.haskell .hljs-type,
+.smalltalk .hljs-class,
+.hljs-javadoctag,
+.hljs-yardoctag,
+.hljs-phpdoc,
+.hljs-typename,
+.hljs-tag .hljs-attribute,
+.hljs-doctype,
+.hljs-class .hljs-id,
+.hljs-built_in,
+.setting,
+.hljs-params,
+.hljs-variable,
+.clojure .hljs-title {
+  color: #606;
+}
+
+.css .hljs-tag,
+.hljs-rules .hljs-property,
+.hljs-pseudo,
+.hljs-subst {
+  color: #000;
+}
+
+.css .hljs-class,
+.css .hljs-id {
+  color: #9b703f;
+}
+
+.hljs-value .hljs-important {
+  color: #ff7700;
+  font-weight: bold;
+}
+
+.hljs-rules .hljs-keyword {
+  color: #c5af75;
+}
+
+.hljs-annotation,
+.apache .hljs-sqbracket,
+.nginx .hljs-built_in {
+  color: #9b859d;
+}
+
+.hljs-preprocessor,
+.hljs-preprocessor *,
+.hljs-pragma {
+  color: #444;
+}
+
+.tex .hljs-formula {
+  background-color: #eee;
+  font-style: italic;
+}
+
+.diff .hljs-header,
+.hljs-chunk {
+  color: #808080;
+  font-weight: bold;
+}
+
+.diff .hljs-change {
+  background-color: #bccff9;
+}
+
+.hljs-addition {
+  background-color: #baeeba;
+}
+
+.hljs-deletion {
+  background-color: #ffc8bd;
+}
+
+.hljs-comment .hljs-yardoctag {
+  font-weight: bold;
+}
