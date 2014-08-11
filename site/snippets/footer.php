@@ -50,7 +50,7 @@
             return false;
           });
 
-        /* Header Behaviour */
+        /* Header Behavior */
         var lastScrollTop = 0;
         var dh = $(document).height();
         $(window).scroll(function(event){
