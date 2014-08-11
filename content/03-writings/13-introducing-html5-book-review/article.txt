@@ -84,7 +84,7 @@ Comes with a browser default date selector. This means that the date selector wi
 **Tel**
 It stands for "telephone". I like this one, because it's very useful on mobile devices. It provides a keyboard that is optimized for filling in phone numbers.
 
-You can read more about the new [HTML5 input types here](http://html5doctor.com/html5-forms-input-types/).
+You can read more about the [new HTML5 input types here](http://html5doctor.com/html5-forms-input-types/).
 
 ##Advanced Topics
 
@@ -96,7 +96,7 @@ But they do conclude the book with a very good chapter: Patching Old Browsers to
 
 (figure: 03.gif caption: HTML5 is the future of the web. title: HTML5 is the future.)
 
-HTML5 seems very simple at the beginning but more you dive into it, the more it turns out that HTML5 isn't quite so simple and basic. In fact it's very sophisticated and offers a lot more options to web developers. And I think that this book is more appropriate for them. It gives a nice introduction to the whole HTML5, not just the basics. I found almost half of the chapters in this book too advanced for me.
+HTML5 seems very simple at the beginning, but the more you dive into it, the more it turns out that HTML5 isn't quite so simple and basic. In fact it's very sophisticated and offers a lot more options to web developers. And I think that this book is more appropriate for them. It gives a nice introduction to the whole HTML5, not just the basics.
 
 I really enjoyed this book, despite the fact that some chapters were too advanced for me. It's very easy to read, well structured and full of great examples.
 
