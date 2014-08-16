@@ -533,6 +533,9 @@ header {
     position: fixed;
     top: 0;
     padding: 3%;
+    -webkit-transition: background 0.3s;
+    -moz-transition: background 0.3s;
+    transition: background 0.3s;
 }
 .headerWhiteBg {
     background: #f6f6f6;

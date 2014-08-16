@@ -7,5 +7,5 @@
     </div>
 </div>
 
-<?php echo js('assets/js/combined.min.js?123') ?>
+<?php echo js('assets/js/combined.min.js?124') ?>
 <?php snippet('page-footer') ?>
