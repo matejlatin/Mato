@@ -64,7 +64,7 @@
                 }
             }
             if (st <= 0){
-                $("header").removeClass("headerWhiteBg", 300).addClass("light").fadeIn();
+                $("header").removeClass("headerWhiteBg").addClass("light").fadeIn();
             }
            lastScrollTop = st;
         });
