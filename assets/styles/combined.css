@@ -833,6 +833,7 @@ ul.featured a, ul.contacts a {
     max-width: 100%;
     float: left;
     border: 0;
+    opacity: 1;
 }
 #shotsByPlayerId a {
     display: block;
@@ -1059,9 +1060,9 @@ figure img, img {
     figure img {
         max-width: 700px;
     }
-    #shotsByPlayerId li img {
+/*    #shotsByPlayerId li img {
         opacity: 1;
-    }
+    }*/
     .fullWidth {
         width: 100%;
     }

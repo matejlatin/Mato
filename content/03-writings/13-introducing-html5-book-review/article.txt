@@ -101,5 +101,7 @@ HTML5 seems very simple at the beginning, but the more you dive into it, the mor
 I really enjoyed this book, despite the fact that some chapters were too advanced for me. It's very easy to read, well structured and full of great examples.
 
 I found out later that there's a book more appropriate for the likes of me. It's HTML5 For Web Designers. It focuses more on web design only, not also web development. In the end, this was still a good book for introducing someone to HTML5. Not for the people who are just learning HTML, but for the ones that are very familiar and comfortable with HTML.
+
+Photo by [Remy Sharp](http://www.flickr.com/photos/remysharp/).
 <script src="/assets/js/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
