@@ -693,6 +693,8 @@ h2 {
 h3 {
     font-size: 1.5em;
     color: #222;
+    max-width: 90%;
+    margin: auto;
 }
 aside h2, section h2 {
     margin: 0 auto 1.3rem;
@@ -992,6 +994,9 @@ figure img, img {
         margin: 1.773em auto 0.618em;
         line-height: 1.096em;
         font-size: 1.773em;
+        max-width: 43.75rem;
+    }
+    h3 {
         max-width: 43.75rem;
     }
     .extract, .welcome {

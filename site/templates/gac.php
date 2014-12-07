@@ -9,26 +9,6 @@
 <article class="cf">
     <p class="extract"><?php echo html($page->intro()) ?></p>
     <?php echo kirbytext($page->text()) ?>
-<!-- 	<div class="gacLevel lightGray cf">
-    	<h2>Getting to the Next Level</h2>
-    	<p>The homepage redesign was just the first, but a very important, step to the next level of Get a Copywriter. There was nothing left unplanned. The Get a Copywriter team already set the goals of how to achieve this promotion and the KPIs to measure their success/failure.</p>
-    	<div class="gacGoals">
-            <h4>GOALS</h4>
-            <ul class="gacGoalsLi">
-                <li><strong>Redesign Processes & Functionalities</strong></li>
-                <li><strong>Build Trustworthier Presence</strong></li>
-                <li><strong>Increase User Engagement</strong></li>
-                <li><strong>Raise the Price Rates</strong></li>
-            </ul>
-              <h4>KPIs</h4>
-              <ul class="gacKpis">
-                  <li><strong>Bounce Rate</strong></li>
-                  <li><strong>Average Time on Site</strong></li>
-                  <li><strong>Percentage of New Visitors</strong></li>
-              </ul>
-        </div>
-        <img class="alignCenter" data-src="<?php echo $page->images()->find('02.jpg')->url() ?>" alt="Get a Copywriter Close-up" title="Get a Copywriter Close-up">
-    </div> -->
     <?php echo kirbytext($page->text2()) ?>
     <div class="lightGray cf killMargins">
         <?php echo kirbytext($page->text3()) ?>
@@ -96,7 +76,7 @@
     </div>
 </article>
 
-<?php echo js('assets/js/combined.min.js?124') ?>
+<?php echo js('assets/js/combined.min.js') ?>
 <?php echo js('assets/js/countUp.min.js') ?>
 <script>
   var options = {

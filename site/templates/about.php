@@ -55,5 +55,5 @@
     </ul>
 </article>
 
-<?php echo js('assets/js/combined.min.js?124') ?>
+<?php echo js('assets/js/combined.min.js') ?>
 <?php snippet('page-footer') ?>
