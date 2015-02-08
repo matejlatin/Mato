@@ -1,0 +1,68 @@
+Title: The Elements of Typographic Style Book Review
+----
+Date: 2015-02-08
+----
+Related:
+- writings/dont-make-me-think-book-review
+----
+Intro: Robert Bringhurst's typography bible, as it's often referred to, is a great introduction to typography that takes the reader even further.
+----
+Opacity: 0.4
+----
+Text:
+
+I recently started a project called [Better Web Type](http://betterwebtype.com) with a goal to improve the typography of the web. When I was a young web designer, I never paid too much attention to typography while designing websites. For me, web typography back then was just selecting which of the web safe fonts to use. And I'm afraid that lots of other web designers learned to do the same.
+
+But then, I saw the [On Web Typography](http://vimeo.com/34178417) speech by Jason Santa Maria and Tim Brown's [More Perfect Typography](http://vimeo.com/17079380) shortly after and realized how important typography is. Even for the web. I noticed that web designers slowly started realizing that. Web, as a medium, came to a point, where current typography practice simply wasn't good enough. Not any more. It's actually going through the same evolution that books went trough in the time of the Renaissance.
+
+So I started to dig further. After a while I came to know about the typography bible: The Elements of Typographic Style by Robert Bringhurst. As I wanted to learn about typography in general (not only in relation to web), I decided to read it. Here's a few things that I learned.
+
+##What Typography Should Do
+
+As Robert introduces the reader to the grand design of typography, he concludes that despite exceptions and excuses, typography should always perform these services for the reader:
+
+- invite the reader into the text;
+- reveal the tenor and meaning of the text;
+- clarify the structure and the order of the text;
+- link the text with other existing elements;
+- induce a state of energetic pose, which is the ideal condition for reading.
+
+Robert defines typography as an art that can be misused and a craft by which the meanings of text can be clarified, honored and shared, or knowingly disguised. He claims that typography should be transparent and durable at the same time.
+
+(quote: Robert Bringhurst text: Typography at its best is a visual form of language linking timelessness and time.)
+
+##Rhytm and Proportion
+
+###Horizontal Motion
+
+**Color**
+The density of texture in a written or typeset page is called its *color*. This has nothing to do with the color of the ink; it refers to the darkness and blackness of the letters in mass. Once the demands of legibility and logical order are satisfied, *evenness of color* is the typographer's normal aim.
+
+**Line Length**
+45 to 75 characters is widely regarded as a satisfactory length of line for a single-column page, 66 characters per line being ideal (including both letters and spaces). The length of the line should be 30 times the size of the type. So 16px type (default font size on web) should fit into a line of 480px. By doing so, we usually get to those 65 characters per line.
+
+###Vertical Motion
+Continuous text usually needs positive leading (space between the lines of text). Longer lines need more leading than short ones, dark typefaces more than light ones, unserifed typefaces more than serifed. The page, no matter how full or empty, must breathe. The longer the line, the more space between lines.
+
+##Use Scale to Achieve Harmony
+
+Robert advises that we should always compose with a scale. By doing so, we achieve the harmony in typography. The type sizes that are predefined in Photoshop are based on the typographic equivalent of the diatonic scale. Tim Brown talks about his [Modular Scale](http://modularscale.com/) in his speech and explains how web needs its own scale to achieve that harmony in web typography.
+
+##Typography and Pixels
+Typefaces that are good for the screen are the typefaces with low contrast, a large torso, open counters, sturdy terminals and slab serifs or no serifs at all.
+
+Good on-screen paragraphs are ragged-right (aligned to the left) and short. Headings on screen should be frequent and simple. Robert advises that the textblocks should be even narrower than the ideal for printed texts - closer to 36 than to 66 characters per line.
+
+The screens are evolving, the technology now supports screens with a resolution of 220 dpi, getting close to the resolution of printers. As the resolution of the screens improve, so will the on-screen typography.
+
+(quote: Robert Bringhurst text: By all means break the rules, and break them beautifully, deliberately and well.)
+
+(figure: 01.jpg caption: The Elements of Typographic Style is a perfect example of typography well done. title: Elements of Typographic Style)
+
+##Final Thoughts
+The Elements of Typographic Style is a perfect introduction to typography throughout. It gives the reader all the basic knowledge to go on and explore the world of typography further.
+
+I read the latest, fourth edition of this book, but there's still no chapter about the typography on the web. Some believe that this is so, because Robert doesn't think of web as a medium mature enough to really embrace typography and both its possibilities and constraints.
+
+[Webtypography.net](http://webtypography.net/) is the website that takes what Robert wrote in this book and tries to apply it to the web. It should be the next step in your exploration of web typography.
+
