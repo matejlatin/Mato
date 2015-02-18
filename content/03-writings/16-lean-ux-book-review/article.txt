@@ -1,0 +1,104 @@
+Title: Lean UX Book Review
+----
+Date: 2015-02-15
+----
+Related:
+- writings/dont-make-me-think-book-review
+----
+Intro: Designers and developers love being closed in their silos, doing what they do best and feel comfortable about it. Lean UX suggests the opposite.
+----
+Opacity: 0.4
+----
+Text:
+
+(quote: Jeff Gothelf text: The biggest lie in software is Phase II.)
+
+This was the first book from the Lean Series that I read. Written by Jeff Gothelf and Josh Seiden, the two advocates and professionals of Agile and Lean UX. It's based on the series' editor Eric Ries' Lean Startup principles and it doesn't focus on what's wrong with other approaches to UX Design. Instead, it introduces the reader to why Lean UX is a very good alternative.
+
+I must admit that I haven't read Eric Ries Lean Startup, but I was familiar with its' principles before I decided to buy this book. And I believe that even if I wasn't, this book, by itself, would still be a great introduction to Lean Startup & Lean UX. Here's a few things I learned.
+
+##3 Foundations of Lean UX
+
+After Jeff explained the user how traditional software design process came to be and why it's not efficient anymore, he starts with and introduction to Lean UX. The three foundations of Lean UX are:
+
+- Design thinking,
+- Agile software development and
+- Lean Startup method.
+
+##Principles of Lean UX
+
+These are the principles that will keep you and your team on course. Jeff wrote down 14 of these principles, I will mention the ones I believe are the most important.
+
+**Cross-Functional Teams**
+These are made up of the various disciplines involved in creating a product: software engineering, product management, interaction design, visual design, content strategy, marketing etc. By including these disciplines in one team we can avoid the inefficient waterfall approach and encourage conversation, reflecting in greater team efficiency.
+
+**Continuous Discovery**
+This is a research based on both qualitative and quantitative methods that tries to answer what the users are doing with a product and why they do it. It should be done frequent on a regular basis and it should include the entire team. By doing so, the entire team will develop empathy for users and the problems they face.
+
+**Getting Out of the Building**
+The meeting room debates about user needs won't be settled conclusively within an office. The answers lie outside, in the marketplace. Include the users in the product design process sooner. Much sooner. Better to find out that your ideas are missing something before you spend time and resources building something that no one wants.
+
+**Shared Understanding**
+Shared understanding is a direct consequence of the shared discovery. The more a team understands about the product and the customers, the less of documentation they will need.
+
+**Permission to Fail**
+Most of ideas fail. If a team feels comfortable in an an environment that allows them to fail, they will come up with better and more innovative solutions. Frequent failures lead to increased mastery of skills. The [Why You Need to Fail](https://www.youtube.com/watch?v=HhxcFGuKOys) video explains this with a very simple example.
+
+**Getting Out of the Deliverable Business**
+Documents don't solve user problems, good products do. Instead of focusing on producing BDUF (Big Design Up-Front or Big Documentation Up-Front), teams should focus on learning which features have biggest impacts on users.
+
+(quote: Jeff Gothelf text: All that matters is the quality of the product, as measured by the market's reaction to it.)
+
+##Process
+
+###Hypothesis
+The Lean UX process is based on a **hypothesis statement** - a way of expressing assumptions in testable form. By the end of the process, the hypothesis should be either validated or invalidated. A hypothesis is composed of the following elements:
+
+- *Assumptions*: a high-level declaration of what the team believes to be true,
+- *hypothesis*: more detailed descriptions of team's assumptions,
+- *outcomes*: the signal that the team seeks from the market to help validate or invalidate the hypothesis,
+- *personas*: models of people for whom the team believes to be solving the problem,
+- *features*: product changes that the team believes will drive the outcome they seek.
+
+(figure: 01.gif caption: Declaring assumptions is the first step in the Lean UX process. title: Declaring Assumptions)
+
+###Collaborative Design
+Collaborative design is not a step in the process scheme above, it's more a way to speed up the creation of an MVP. Jeff recommends two ways to do so: Design Studio and Style Guides.
+
+**Design Studio**
+The goal of the Design Studio is to include the whole team in an early design process and come up with as many solutions for a problem as possible. The idea is that each member of the team comes up with 6 solutions that he/she then presents to the whole team. Others provide feedback and do the same. After everyone presents his/her ideas, the team collaboratively decides on which ideas they should start working.
+
+**Style Guides**
+Instead of software engineers waiting on designers to come up with a big design upfront, the already have a style guide with basic rules so they can start working early. Jeff provides some good advice on how to prepare these style guides and what to include in them.
+
+###MVPs and Experiments
+
+(figure: 02.gif caption: Next step is to create an MVP with which the hypothesis can be validated or invalidated. title: Create an MVP)
+
+Once the team has its' hypothesis, it's time to build an MVP and either validate or invalidate it. There's two types of MVPs: prototypes and non-prototype MVPs. Either way, its' goal is to:
+
+1. Find out if there's need for the solution the team is designing?
+2. Is there value in the solution and features that the product offers?
+3. Is the solution usable?
+
+MVPs should be produced as quick as possible but that doesn't mean that the team should build half of the product. They should build a whole product but a minimal version of it. Take a look at the [MVP cupcake model](http://kaeru.se/entry_15.php) for a great example.
+
+(figure: 03.gif caption: Run an experiment. title: Running an experiment)
+
+The MVPs are meant to be used in experiments. An experiment can be simply releasing the product and observe how users react to it. Another way would be to build a low-fidelity prototype and test very early. A very simple MVP that can bring very good insights into user behavior is a Button to Nowhere, as Jeff calls it. It' simply a button that is supposed to provide a feature, but doesn't do so yet. It only measures how many users click on it. This is a great way of finding out if a feature should be built at all.
+
+###Feedback and Research
+
+(figure: 04.gif caption: Learn from feedback and research based on the experiment. title: Feedback and research)
+
+Feedback and research are the most important step in the design process. By Lean UX principles it should be continuous and collaborative. In this step, the team gets feedback based on the experiments they ran with an MVP that they built in the earlier step.
+
+Jeff provides a good case study where a team ran tests with 3 users every Thursday. When the team gets feedback on such a regular basis, it can achieve continuous discovery and consequently shared knowledge that are keys in Lean UX. To achieve that, it's very important that all team members are included.
+
+(figure: 05.gif caption: An overview of the customer in Lean UX. title: Lean UX User Overview)
+
+Jeff also provides other ways to find out more about user behavior, including: search logs, site usage analytics, A/B testing, feedback surveys, feedback from customer service etc.
+
+###Final Thoughts
+Lean UX is a great alternative to the traditional design & development process. Instead of depending on heroes and gurus inside a team, the team depends on itself as a whole. Instead of teams of designers and engineers working separately, they work together, faster and fail early to learn early and iterate while perfecting their product. Once you start working this way you'll wonder how could you have ever worked anyway different before.
+
