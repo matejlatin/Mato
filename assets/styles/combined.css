@@ -441,6 +441,11 @@ article img {
     opacity: 0;
     transition: opacity 0.4s ease-in;
 }
+
+.img {
+    margin: 3em 0 4em;
+}
+
 hr {
     width: 50px;
     height: 1px;
@@ -911,6 +916,75 @@ ul.featured a, ul.contacts a {
 }
 .killMargins {
     margin-bottom: 0;
+}
+
+/* WM */
+
+.bgRed {
+    background: #f70000;
+    padding: 4em 0;
+    margin: 4em auto;
+}
+
+.bgRed p, .bgRed h3, .bgRed figcaption {
+    color: white!important;
+}
+
+.wm-styles {
+    width: auto;margin: 0 auto;
+}
+
+.wm-styles img {
+    float: left;
+}
+
+.tg {
+    margin: 3em auto;
+    text-align: center;
+}
+
+.tg th {
+    border-bottom: 2px solid #f70000;
+    padding: 0 0 1em;
+}
+
+.tg td {
+    padding: 2em 0;
+    border-bottom: 1px solid #eaeaea;
+}
+
+.tg img {
+    max-width: 600px;
+}
+
+.paper {
+    font-size: 1.6em;
+    color: #f70000;
+}
+
+.padding {
+    padding: 3em 0;
+    margin: 3em 0;
+}
+
+.goals section {
+    float: left;
+    width: 50%;
+    text-align: center;
+    padding: 3% 10%;
+    box-sizing: border-box;
+}
+
+.odd {
+    background: #f6f6f6;
+}
+
+.even {
+    background: #f2f2f2;
+}
+
+.goals section p {
+    width: 100%;
 }
 
 /* Writings */
