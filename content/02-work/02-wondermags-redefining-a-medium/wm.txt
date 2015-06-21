@@ -139,3 +139,6 @@ When we were exploring different ideas in the begining, it hasn’t occured to u
 
 **Style selection**
 We went too far ahead with this one. We anticipated to have hundreds of styles from which the users could choose. So we decided that we only show the favorites in the style selection. In order to see a style in the quick style selection, a user would have to mark it as favorite first. This led to one of the worst design patterns I’ve ever seen. We only had 5 styles when we started the beta so the favorite function didn’t make much sense. The quick style selection was empty when users expected the styles to choose from. A lesson learned.
+
+**Further Reading**
+[Measuring the User Experience](http://matoweb.com/work/measuring-the-user-experience) — Case Study; Usability testing of the Wondermags editor.

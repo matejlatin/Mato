@@ -1,0 +1,197 @@
+Title: Measuring the User Experience
+----
+Date: 2015-06-20
+----
+Related:
+- writings/user-control
+----
+Intro: I took another look at the script. The interview questions were OK, test tasks OK, post interview questions also OK.
+----
+Opacity: 0.3
+----
+Text:
+
+Me and my fellow designer Kurt then checked the screen-recording software and tested it with Skype. As soon as we got a hang of it, we were ready to go.
+
+##The Problem
+
+Up to this point, we’ve been working on the first version of Wondermags for a year. We wanted to start with a private beta and see where we were standing. I always had some concerns. The biggest would be the fact that we didn’t prototype the solution we were working on. We made a “Keynote prototype” but in my opinion that wasn’t enough. Anyway, we proceeded. 
+
+The closer we got to the beta testing, the clearer it was that we had some serious usability problems. I kept insisting that we have to do usability testing to identify, document and eventually solve usability problems. Finally, I received a green light.
+
+(quote: H. James Harrington text: Measurement is the first step that leads to control and eventually to improvement.)
+
+##The Goal
+
+We had one goal for our usability testing sessions. We wanted to identify the pain points in our user interfaces and interactions. By identifying and documenting these problems we could later provide solutions. Solutions based on data.
+
+##The Questions
+
+We wanted to find answers to the following three questions:
+
+1. How will users perform in most common/basic tasks in the Wondermags Editor?
+2. What is the learning curve for these basic tasks?
+3. What are the most common errors that the users will commit?
+
+##Methodology
+
+A remote moderated usability test would be held at our office with 10 participants. Each test should last around 30 minutes, 15 for the interview and 15 for the actual test. The test would consist of performance tasks which will be measured by time, success and perceived difficulty of the task. The tasks would mostly consist of the basic page and content manipulation in the Wondermags Editor.
+
+##The Users
+
+All of the users that we tested with had zero experience with Wondermags so far. That’s how we wanted it. We invited users from our base of signups for the beta. We had a range of 400 users to choose from when we started. We were choosing based on our UX personas, so we invited people that matched those profiles the most.
+
+##The Test
+
+A well defined test is the foundation of good usability testing. As mentioned earlier, our test would consist of interview questions and tasks that will be measured.
+
+###Questions Before Test Tasks
+
+These questions serve two purposes. We can obtain some more information about the users and we get the users to talk before the testing starts. This way, they get a bit more comfortable with themselves talking to us.
+
+- What is your relationship with technology in general? How would you rate your computer skills (from 1–7, 1 being very basic, 7 being advanced)?
+- How did you learn about Wondermags? What do you think Wondermags is?
+- Have you ever used any similar products? Can you tell us more about your experience with them?
+- What is your profession? Would you use Wondermags in your professional or private life?
+
+###Instructions for the Moderator
+
+I prepared a list of instructions for the moderator as I wouldn’t be moderating these testing sessions all the time. With these instructions I wanted to remind the moderator to tell the user that it’s the software that we’re testing, not him. Telling the users to think out loud was also an important part of the instructions. Other parts were basic introduction to what we were doing and how long it would take.
+
+###Test Tasks
+
+A well-prepared test scenario is of fundamental importance when user testing. I paid a lot of attention to preparing our scenario. I came up with a list of tasks that we wanted to include in the test. I started off with 20 of them. Then I tried the test myself and realized it was too long. We wanted to keep it under 15 minutes because it’s been proven that users start to have trouble focusing when tests are longer than that. 
+
+I redesigned the test tasks. This time, I had 17 of them. I discussed the scenario with my team mates. We made a pilot test with two of them and applied some changes again. In the end we had 15 tasks. The time required to complete one testing session was right around 15 minutes now. Perfect.
+
+The test tasks were of the most basic nature, such as: add a new page, delete a page, change the name of the magazine, put content into pages, upload multimedia files, change page style, save changes etc.
+
+(figure: test-tasks.jpg title: The Test Tasks)
+
+###Questions After the Test Tasks
+
+We wanted to see what users thought about their first interaction with Wondermags. Again, we wanted to get more information about our target users and if and why would they use Wondermags.
+
+- What is your opinion about the Wondermags Editor? Is it what you expected?
+- Do you think that it is useful for what you do? Why?
+- Would you recommend Wondermags to others?
+
+##The Pilot Test
+
+Never skip a pilot test. Never. We did a pilot test with one of our coworkers. Just to see if our test was thought through and well designed. We noticed that some tasks weren’t really clearly defined, so we had to revisit them. After that, we made another pilot test with another coworker. This one went through smoothly so we felt confident to proceed to testing with real users.
+
+##Metrics & Data
+
+I felt that having 10 users per each testing session was enough to collect and analyze statistical data. Having experience with spreadsheet software, I prepared a sheet, where we would input the results of each test participant and the results and charts would be calculated automatically.
+
+(figure: spreadsheet.jpg title: The spreadsheet that we used to calculate and analyze the results.)
+
+###Eficiency
+
+We measured the time that each participant would need for each task to complete. The logic is simple — the less time, the more efficient.
+
+###Success Rate
+
+Success rate was one of the most important metrics in this test. The user interface would probably feel somewhat unfamiliar to the users. That’s why we wanted to find out if they would still be able to successfully perform all the tasks that we would ask them to. 
+
+We divided the success rate into three levels:
+
+1. **Failure**: the user failed to complete the task, gave up or asked the moderator for help,
+2. **Partial success**: the user successfully completed the task by himself, but not in the first try,
+3. **Success**: the user successfully completed the task by himself.
+
+###Perceived Difficulty
+
+Another metric that we felt was really important, was the perceived difficulty — how difficult or easy is it for users to use our software. For measuring this, we used the Single Ease Question or SEQ.
+
+After each task we would ask the user how difficult was it to perform. The results in this metric are almost always surprising because the moderators might expect some tasks to be more difficult than others but the users still rate them as easy. That’s why it’s about perceived difficulty. It’s all about the user.
+
+In the end, the question is about the user’s cognitive effort. The task itself might be more difficult but the user rates it as easy. That may come from his past experiences that are similar to the one being tested. That’s why it’s important to run usability testing sessions with the right users. We had defined our UX personas long before we started testing, so we knew exactly who the test users should be. 
+
+(image: seq.jpg title: Single Ease Question)
+
+Our SEQ question was simple: from 1 to 7, how difficult was the task; 1 being easy, 7 being difficult.
+
+##Keeping Scores
+
+I worked on a bank before and I studied economics. Every experience brings us something we can use in the future. In this case it was the experience with spreadsheets.
+
+I came up with a spreadsheet that would make it easy to keep the scores of usability tests. I put in all the 15 tasks we had and assigned them a level of importance: low, medium and high. We would then focus on improving the usability for the tasks with the lowest score and highest importance. The score is calculated from the success rate and perceived difficulty. Success rate would be scored 0 points for failure, 1 point for indirect success and 3 points for direct success.
+
+Perceived difficulty would be scored from 1 to 7 points. In other usability test cases that I read about, the moderators would ask users to rate the difficulty from 1 to 7, 1 being very difficult and 7 being very easy. They did that so their scores would be easier to calculate. I thought that asking a question like that would be confusing. I wanted to avoid any confusion so I reversed the question: 1 very easy, 7 very difficult. This meant that I would have to reverse the scoring in the spreadsheet by programming it so. Task rated with 1 — very easy would be scored with 7 points etc.
+
+The highest score a task could get would be 10 points (3 points from success rate and 7 points from perceived difficulty) which meant that the success rate was 100% and the difficulty rated as very easy. The efficiency metric served us as a backup metric. If a task score was good but it would take very long time for most users to complete, we would address the problem when others would be solved.
+
+##Results & Analysis
+
+Some of my colleagues became keen on start making changes very soon after we started the usability testing sessions. We’re talking about results from about three or four user testings. I insisted that it’s too soon and that we should wait for more data to support our future decisions. I know that around five users is enough to discover most of the usability issues, but I wanted to keep record on a long run. Test with 10 users after each major change in the product. We could then compare the results and see how our changes affected the usability through time.
+
+<div class="img txtCenter">(image: sessions.png title: From session to session the problematic tasks were reduced. We started a new session after each major change to the product. Average overall score in the end was 8.21 out of 10. )</div>
+
+Here are all the results from all testing sessions with some basic overall calculations for each session and overall. I calculated the averages per task and averages per session. By doing so, I could already see if we were making progress. And we were. It’s clearly visible that the overall average score 8.07 to 8.40. That’s not a lot, but it’s a sign that we were moving in the right direction. The results already started to show that three of the tasks were the most problematic. I wanted to dig deeper.
+
+(figure: overall-score.png title: Overall Task Scores)
+
+###Perceived Difficulty
+
+As mentioned earlier, we also had a metric to measure the perceived difficulty based on results from our SEQ results where users rated the difficulty of the task from 1 to 7. Again, the results were very conclusive.
+
+(figure: perceived-difficulty.png title: Perceived Difficulty)
+
+This backed our assumptions that the tasks 11 and 14 were the most difficult for most users. We were a bit surprised that the task 6 wasn’t among them, but some others were rated more difficult than expected. Especially because of the low success rate. This proves that this metric is all about perceived difficulty. Most users had trouble successfully completing this task but still didn’t rate it as difficult. This means that the cognitive load required for this task was low, despite the success rate.
+
+Task 8 on the other hand, was rated as quite difficult (compared to others). The task was to move a block of content on top of another by dragging and dropping. We noticed in the tests that the users struggled with this task so the difficulty rating was appropriate. We definitely needed to improve this feature.
+
+###Success Rate
+
+By analyzing the success rate, we put the final puzzle into the picture. We started to understand what the problematic parts of our product were, but only now we could be sure.
+
+(figure: task-success.png title: Task Success Rate)
+
+Task 6, 11 and 14 had the highest failure rates. Task 14 (delete the page) even had 0% direct success rate! This was unacceptable for such a basic and common task. We needed to focus on fixing those issues first. Then we would proceed to fixing the issues causing the most failures and indirect successes. Put in other words, we wanted to have these bars mostly green.
+
+##Further Usability Tests to Be Done
+
+This was only the first of a series of usability tests that we set out to do. As mentioned earlier, we only tested the usability of basic tasks in the Wondermags Editor. Now we had to design new usability tests for other features/parts of the product.
+
+###Editor Content Types
+
+We only tested the most basic tasks in this test. We wanted to keep it short and it’s good that we did. We planned further testing sessions soon after that. We had to test the other part of the Wondermags Editor — the one focused on the content. We prepared another scenario with more tasks. These were meant to test the Content Type manipulation only.
+
+###A User-Free Moderated Test
+
+Another test that I thought of was a moderated test where the user would be free to use the tool and we would observe. The idea was simple. No scripted tasks, no metrics, no data. We would ask the users to come prepared to the test by only preparing some content that they would want to put into a magazine. A lot of our users are bloggers, so an article with photos and videos would be the most common thing that they wanted to do.
+
+The goal of this test was simply to observe the users how they would use our product. All we asked of them was to think out loud. The moderator would not interrupt the user, he may help him if the user asked for help. It’s impressive how much we can learn from our users by simply observing them.
+
+(quote: W.S. Green text: Usability alone does not necessarily provide an enjoyable experience.)
+
+So far, we’ve only tested and measured the usability of our software. But usability alone does not necessarily provide an enjoyable experience. Usability tests tell us if our product is usable, but not if it’s enjoyable. We wanted to dig deeper. We wanted to measure how our users experience our product.
+
+##System Usability Scale (SUS)
+
+System Usability Scale is a well-known standard in the user experience business. It’s very simple for the users to answer the questions as they only have to express the level of their agreement with the statement/question. There’s ten of these.
+
+I decided that we should send each new beta user an email, inviting him/her to fill in this questionary. I set up a Google Form, connected it to a Google Spreadsheet document and everything else was automatic. We even set up Mail Chimp automation so that each new registered user would receive the invitation after x days.
+
+(figure: sus.jpg title: Our plan to measure SUS score.)
+
+All we had to do now is wait for results and keep track of major updates to our software. Being in early stages there’s still room for big changes. Big changes that can affect how our users experience our product. We’re still measuring this. I think it has helped us so far as we can see if an update improved the user experience or not.
+
+##Net Promoter Score
+
+The Net Promoter Score is based on a question wether a user would recommend your product to others or not. If you noticed earlier, we had this question in our post–usability test interview. But right after the test and speaking directly to the user wasn’t the right time to draw and analyze data from it.
+
+(figure: nps.png title: Net Promoter Score Calculation caption: Calculation of NPS, source: Wufoo Blog)
+
+I thought it would be much better to ask the users this question after some time after using our product. And maybe the most important part — make sure that they can reply anonymously. Asking a user if he would recommend your product that you have been working on for a long time right after the test and in person will make them answer “yes” because they wouldn’t want to hurt our feelings. They know we’re invested in this product. They know how much we care about it. So they don’t want to hurt us by being honest.
+
+So once again, I prepared an email template that would be sent to some users after x time using our product. We would invite them to answer this simple question anonymously. We’re still collecting the answers but even when we’re done, I’m not sure if I’ll be able to share the results.
+
+##Conclusion
+
+What we found out with these usability sessions was that users would need instructions to use our product. We later added a splash screen for the first-time users, to explain the layout and the user interface to them.
+
+(quote: Elon Musk text: Any product that needs a manual to work is broken.)
+
+This is one rule in design that I like to stick with. Simplicity is good when the product works. Simplicity instead of clarity is not an option. This is why we later redesigned the layout of the main user interface. With the new version, we were able to solve all the problems that the previous one had. And the new user interface needed no instructions for use. Stay tuned for the new case study on how we succeeded in that.

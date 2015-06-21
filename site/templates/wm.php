@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-<style>
+<!-- <style>
     .edgeLoad-EDGE-41464283 { visibility:hidden; }
 </style>
 <script>
@@ -14,7 +14,7 @@
 }, {"dom":{}}, {"dom":{}});
 
 
-</script>
+</script> -->
 <div class="intro light work">
     <div class="verticalCenter homeBg">
         <h1><?php echo html($page->title()) ?></h1>
@@ -28,8 +28,8 @@
         <h3>Blocks</h3>
         <p>The whole idea is very simple. A wondermag is built with blocks. Blocks always take full width of a page and they stack on each other. Each block can have up to three different content types. The blocks are predefined and the user can only select from a limited range of them.</p>
             <!-- blocks animation-->
-            <div id="Stage" class="EDGE-41464283">
-            </div>
+            <!-- <div id="Stage" class="EDGE-41464283">
+            </div> -->
         <h3>Content Types</h3>
         <p>A content type is the smallest and most basic building block of a wondermag. A content type is inside a block and can take either 1/3, 1/2 or full space inside it. Basic content types are body text, heading, image, image gallery, audio player, video player and map.</p>
         <img class="alignCenter" data-src="<?php echo $page->images()->find('ct-icons.jpg')->url() ?>" alt="Content Types"><br><br>
