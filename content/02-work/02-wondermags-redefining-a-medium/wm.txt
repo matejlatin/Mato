@@ -1,0 +1,141 @@
+Title: Redefining a Medium
+----
+Date: 2015-06-12
+----
+Intro: It must have been a day in early July 2013. The summer was already in full swing as I was woken up by the heat of 32°C at 6 in the morning.
+----
+Opacity: 0.5
+----
+Text:
+
+I had quit my full-time job at a local bank the previous month and was ready to commit to full-time freelancing again. I did my morning routine which included checking my email. From the full inbox, there was one message which stood out. It was an email from Stojan Rudan, the CEO of Wondermags. We have been in touch for the past few weeks as they approached me with a possible option to join their newly formed team in Luxembourg.
+
+The message went something like:
+
+(figure: email.jpg title: Email from Wondermags)
+
+That day started out as just another warm, boring day, but turned out to be one of the most important days in my life. I would be moving abroad for the first time. It was something that I’d always really wanted. One month later, me and my girlfriend packed up what we could fit into our car and set off to a journey with a destination that was more than 1000 kilometers away.
+
+##What is Wondermags?
+
+Wondermags is a self-publishing platform. Its main goal is to enable everyone to create digital, interactive magazines. The company and its brand had been established earlier in Germany but the founders later decided to move it to Luxembourg. It consists of two main products: the **Editor** with which users create magazines, and the **Kiosk** to distribute these magazines.
+
+(figure: sketch-wm-process.jpg caption: The Wondermags Process title: The Wondermags Process)
+
+Wondermags sets off to try and solve a problem that no one has solved yet. Digitalizing the magazine industry. Yes, there are the enriched PDF versions of magazines out there but let’s be honest — those are hard to read and bring no additional value to the reader. What’s the point of having a magazine on an iPad if the reader can barely read it and there’s no way of interacting with it? Wondermags is not about taking the existing medium and distributing it to another market. It's redefining the magazine as a medium.
+
+(quote: Wondermags text: Wondermags is redefining the magazine as a medium.)
+
+<table class="tg" cellpadding="5">
+  <tr>
+    <th class="tg-s6z2">(image: comaprison-ipad.jpg title: A Wondermag)<br>A Wondermag</th>
+    <th class="tg-s6z2">(image: comparison-mag.jpg title: A Regular Mag)<br>A Regular Mag</th>
+  </tr>
+  <tr>
+    <td class="tg-s6z2"><i class="fa fa-male fa-2x"></i><br>Made by anyone</td>
+    <td class="tg-s6z2"><i class="fa fa-building-o fa-2x"></i><br>Made by professionals</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2" colspan="2"><i class="fa fa-eye fa-2x"></i><br>Looks cool</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2"><i class="fa fa-leaf fa-2x" style="color: #82b590;"></i><br> No paper consumption</td>
+    <td class="tg-s6z2"><span class="paper">57 Kg</span><br> of paper per person in the world (yearly)</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2"><i class="fa fa-bolt fa-2x"></i><br>Interactive content</td>
+    <td class="tg-s6z2"><i class="fa fa-file-text-o fa-2x"></i><br>Static content</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2"><i class="fa fa-university fa-2x"></i><br>Information &amp; Empowerment</td>
+    <td class="tg-s6z2"><i class="fa fa-info fa-2x"></i><br>Information only</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2"><i class="fa fa-line-chart fa-2x"></i><br>Ad-hoc sales reports</td>
+    <td class="tg-s6z2"><i class="fa fa-bar-chart fa-2x"></i><br>Interval sales reports</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2"><i class="fa fa-location-arrow fa-2x"></i><br>Advanced advertising <br> (location and topic based)</td>
+    <td class="tg-s6z2"><i class="fa fa-bullhorn fa-2x"></i><br>Standard advertising</td>
+  </tr>
+  <tr>
+    <td class="tg-s6z2"><i class="fa fa-users fa-2x"></i><br>Social experience</td>
+    <td class="tg-s6z2"><i class="fa fa-street-view fa-2x"></i><br>Individual experience</td>
+  </tr>
+</table>
+
+I believed in the idea of Wondermags since the first day when Stojan presented it to me. I was kinda surprised that there's no existing product that would try to fully digitize the magazine. I wanted to work on something that would change the world. Something that will change it for good and for better. I joined the team soon after we took care of all the bureaucracy. I was the fourth team member and the first designer to join the team.
+
+##The Kick-off
+
+The best thing about a challenge like this is that it gives you freedom. Especially at the start of the project. When we started our first brainstorming sessions we all felt that the project could go either way. But it was up to us to find the right way. After a while we had an abstract idea of what we wanted to achieve with Wondermags.
+
+###Our Goals
+
+1. **Simple to Create**
+It must be very simple to create a Wondermag. We were ready to [sacrifice some of user’s control](http://www.smashingmagazine.com/2014/06/16/user-total-control-designers-nightmare/) to achieve that.
+2. **Looks Cool**
+By limiting user’s control, we also made sure that every Wondermag would look cool no matter who made it.
+3. **Content–Focused**
+The user should only focus on his content and how his magazine looks. He shouldn’t be distracted with detailed options and unneeded settings. Less, but better.
+4. **Interactive**
+The user must be able to interact with the wondermag content in other ways than just read it (it’s what separates it from a regular magazine the most).
+
+###Initial Mockups
+
+We did a lot of mocking up, sketching and debating. We came to a conclusion that all the debating won’t solve any problems. We had to come up with something that imitates our solution. So, we did a click dummy in Axure. Only then, pieces started to fall into place.
+
+**Adding Content**
+Adding content to a page is very simple. The users have to click on the big red plus button and select what type of content they want to add. The new block of content then appears on the page.
+
+<div class="img txtCenter">(image: sketch-add-content.jpg title: Adding content to a wondermag)</div>
+
+**Editing/Changing Content**
+We were very proud of our content focused solution for managing content. All content management happens on the page itself so that the users see their page shaping up instantaneously.
+
+<div class="img txtCenter">(image: sketch-change-image.jpg title: Editing content)</div>
+
+This wasn’t the first concept we tried out, but it was the first one that we really liked. It was content focused (which was one of our main goals). If the user wants to add content, he has to click the big plus button and choose a block of content that he wants to add. This is where the building blocks for a wondermag come from.
+
+----
+TextIcons:
+
+###Wondermags Icons
+
+We had already established some strong branding guidelines while working on the Wondermags identity. We wanted to keep the identity in our UI so I decided to create a custom icon whenever we needed one. Because of some very strong elements like red color and bold white text, I wanted the icons to feel light but still sharp and strong. I went for an outlined icons style. The icons always have sharp edges. We only skip this guideline when it’s really necessary to do so.
+
+(figure: wm-icons.png title: Wondermags Icons)
+
+(figure: icon-design.jpg caption: My screen most of the time while working on these icons. After a while, I started seeing pixels everywhere. title: Designing Wondermags Icons)
+
+----
+Text2:
+
+##Our Successes
+
+Wondermags Editor is the most complex part of the system. We spent a long time on creating the first version. Here are some key successes that I believe we achieved.
+
+**Simple & clean user interface**
+I strived for simplicity in the Wondermags Editor from the start. I always tried to keep it clean, even when requests for additional features came up. We removed what we didn’t think users would really need and displace features that they wouldn’t need so often.
+
+**Editor focused on content**
+Because of a simple and clean user interface, we succeeded in making the Editor focused on content. This was one of our main goals. We wanted our users to open the Wondermags Editor and start working on their wondermag imidiately. Without a big learning curve. Want to add more content to the page? Click the big red plus button.
+
+**Content types**
+After initial brainstorming sessions we ended up with at least 20 different content types. Our ideas had no limits. But then we sat down and decided which ones we want to include first. By reducing the number of content types that we had to work on, we had more time to do them properly.
+
+**Editing & managing the content**
+Each content type is done in a very straight–forward fashion. The content is the most important part of the magazine so we knew how important it was to make it simple to create, edit and manage it.
+
+##Our Failures
+
+It takes a good team to admit to failure, acknowledge it and learn something from it. Only than can the team move on to repair the damage. What follows, is a few examples of where I believe we failed at working on the first version of Wondermags.
+
+**Page Manipulation & Settings**
+We were trying to be clever. And in the end we were too clever. We came up with a solution for page settings that was very unclear. We put the button for page settings on the right of the screen. Nobody noticed it in the usability testing sessions. I believe this was the weakest part of our first version. We focused so much on making the content management simple that we neglected the page management. Deleting and rearranging the pages wasn’t intuitive at all. We addressed this issues after the first usability testing sessions.
+
+**UI layout**
+When we were exploring different ideas in the begining, it hasn’t occured to us to think of a sidebar based layout instead of a bottom navigation bar based one. The pages in Wondermags are scrollable as the user can put as much content on it as he wants. The layout made it difficult to perform certain tasks. It bothered me so much that I decided that we should redesign the UI layout for the next version— check the Wondermags Editor Redesign Case Study.
+
+**Style selection**
+We went too far ahead with this one. We anticipated to have hundreds of styles from which the users could choose. So we decided that we only show the favorites in the style selection. In order to see a style in the quick style selection, a user would have to mark it as favorite first. This led to one of the worst design patterns I’ve ever seen. We only had 5 styles when we started the beta so the favorite function didn’t make much sense. The quick style selection was empty when users expected the styles to choose from. A lesson learned.
