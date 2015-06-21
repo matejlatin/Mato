@@ -987,6 +987,19 @@ ul.featured a, ul.contacts a {
     width: 100%;
 }
 
+#Stage {
+    position: relative!important;
+    background: none!important;
+    margin-bottom: 2em!important;
+}
+
+.gallery img {
+    float: left;
+    max-width: 50%;
+    padding: 5%;
+    box-sizing: border-box;
+}
+
 /* Writings */
 .articlesList section:first-child {
     margin-top: 4%;
