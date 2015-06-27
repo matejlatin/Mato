@@ -8,7 +8,7 @@
 </div>
 <article class="cf txtCenter">
 
-  <p class="welcome">I'm Matej, a Germany based UX, UI & Web designer at <a href="http://wondermags.com">wondermags</a>.</p>
+  <p class="welcome">I'm Matej, a UX designer, currently working as Head of UX at <a href="http://wondermags.com">wondermags</a>.</p>
   <hr>
 
     <?php foreach($pages->findByUID('work')->children()->flip()->slice(0,1) as $article): ?>
