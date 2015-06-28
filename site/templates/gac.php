@@ -14,7 +14,7 @@
         <?php echo kirbytext($page->text3()) ?>
         <div class="chartOne gacChart">
             <div class="stats">
-                <table class="tg">
+                <table>
                   <tr>
                     <tD rowspan="2"><img width="75px" class="alignCenter" data-src="<?php echo $page->images()->find('arrow-up.png')->url() ?>" alt="Average Visit Time Increase"></tD>
                     <tD class="bigNumber"><span id="avgTime">800</span>%</tD>
@@ -28,7 +28,7 @@
         </div>
         <div class="chartTwo gacChart">
             <div class="stats">
-                <table class="tg">
+                <table>
                   <tr>
                     <tD rowspan="2"><img width="75px" class="alignCenter" data-src="<?php echo $page->images()->find('arrow-down.png')->url() ?>" alt="Average Visit Time Increase"></tD>
                     <tD class="bigNumber"><span id="bounceRate">30</span>%</tD>
@@ -42,7 +42,7 @@
         </div>
         <div class="chartThree gacChart">
             <div class="stats">
-                <table class="tg">
+                <table>
                   <tr>
                     <tD rowspan="2"><img width="75px" class="alignCenter" data-src="<?php echo $page->images()->find('arrow-down.png')->url() ?>" alt="Average Visit Time Increase"></tD>
                     <tD class="bigNumber"><span id="newVisitors">37</span>%</tD>
@@ -80,10 +80,10 @@
 <?php echo js('assets/js/countUp.min.js') ?>
 <script>
   var options = {
-      useEasing : true, 
-      useGrouping : true, 
-      separator : ',', 
-      decimal : '.' 
+      useEasing : true,
+      useGrouping : true,
+      separator : ',',
+      decimal : '.'
     }
     var avgTime = new countUp("avgTime", 0, 800, 0, 2.5, options);
     var bounceRate = new countUp("bounceRate", 0, 30, 0, 2.5, options);
