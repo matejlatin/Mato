@@ -11,7 +11,7 @@ Opacity: 0.4
 ----
 Text:
 
-Their a goal is to help fresh business owners and students successfully start their own companies. We were invited to this event because Wondermags is a Luxembourgish startup and we put a lot of effort in user experience. I must admit, it feels good to have such reputation. Anyway, I was asked to present our approach to creating products that users love. Here’s what I presented.
+Their goal is to help fresh business owners and students successfully start their own companies. We were invited to this event because Wondermags is a Luxembourgish startup and we put a lot of effort in user experience. I must admit, it feels good to have such reputation. Anyway, I was asked to present our approach to creating products that users love. Here’s what I presented.
 
 After a short introduction to Wondermags, the team and what our goal is, I tried to explain what UX design actually is. As I mentioned earlier, the audience was composed of fresh businessmen and students, so I wasn’t expecting that they would be familiar with this term.
 

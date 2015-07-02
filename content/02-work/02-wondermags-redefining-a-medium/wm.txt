@@ -81,7 +81,7 @@ The user should only focus on his content and how his magazine looks. He shouldn
 4. **Interactive**
 The user must be able to interact with the wondermag content in other ways than just read it (it’s what separates it from a regular magazine the most).
 
-###Initial Mockups
+###Initial Ideas & Sketches
 
 We did a lot of mocking up, sketching and debating. We came to a conclusion that all the debating won’t solve any problems. We had to come up with something that imitates our solution. So, we did a click dummy in Axure. Only then, pieces started to fall into place.
 
@@ -97,6 +97,18 @@ We were very proud of our content focused solution for managing content. All con
 
 This wasn’t the first concept we tried out, but it was the first one that we really liked. It was content focused (which was one of our main goals). If the user wants to add content, he has to click the big plus button and choose a block of content that he wants to add. This is where the building blocks for a wondermag come from.
 
+wondermag breakdown sketch
+
+###Wireframes
+
+- main window
+- add blocks
+- media library
+- media library preview
+- confirmation window
+- preview
+- select a style
+
 ----
 TextIcons:
 
@@ -110,6 +122,8 @@ We had already established some strong branding guidelines while working on the 
 
 ----
 Text2:
+
+styleguide!!
 
 ##Our Successes
 
