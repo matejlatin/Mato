@@ -443,7 +443,7 @@ article img {
 }
 
 .img {
-    margin: 3em 0 4em;
+    margin: 3em auto 4em;
 }
 
 hr {
@@ -696,7 +696,7 @@ h2 {
     max-width: 90%;
 }
 h3 {
-    font-size: 1.5em;
+    font-size: 1.2em;
     color: #222;
     max-width: 90%;
     margin: auto;
@@ -1040,7 +1040,7 @@ figure img, img {
     /*width: 100%;*/
     max-width:  90%;
 }
-.fullWidth {
+.fullWidth, .fullWidth img {
     width: 100%;
     max-width: 100%;
 }

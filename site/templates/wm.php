@@ -24,6 +24,12 @@
 <article class="cf">
     <p class="extract"><?php echo html($page->intro()) ?></p>
     <?php echo kirbytext($page->text()) ?>
+    <div class="gallery cf">
+        <img data-src="<?php echo $page->images()->find('01-editor-wf.png')->url() ?>" alt="Content Types">
+        <img data-src="<?php echo $page->images()->find('02-add-block-wf.png')->url() ?>" alt="Content Types">
+        <img data-src="<?php echo $page->images()->find('03-preview.png')->url() ?>" alt="Content Types">
+        <img data-src="<?php echo $page->images()->find('04-choose-layout.png')->url() ?>" alt="Content Types">
+    </div>
     <div class="padding lightGray cf">
         <h3>Blocks</h3>
         <p>The whole idea is very simple. A wondermag is built with blocks. Blocks always take full width of a page and they stack on each other. Each block can have up to three different content types. The blocks are predefined and the user can only select from a limited range of them.</p>

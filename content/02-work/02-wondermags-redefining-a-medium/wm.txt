@@ -70,6 +70,8 @@ I believed in the idea of Wondermags since the first day when Stojan presented i
 
 The best thing about a challenge like this is that it gives you freedom. Especially at the start of the project. When we started our first brainstorming sessions we all felt that the project could go either way. But it was up to us to find the right way. After a while we had an abstract idea of what we wanted to achieve with Wondermags.
 
+//add user research & personas
+
 ###Our Goals
 
 1. **Simple to Create**

@@ -1,0 +1,110 @@
+Title: Solving Wondermags Usability Problems
+----
+Date: 2015-07-05
+----
+Intro: We recently ran a series of usability tests at Wondermags. Our goal was to identify the pain points in user interfaces and task flows in the Wondermags Editor.
+----
+Opacity: 0.4
+----
+Text:
+
+After each series of usability tests, we introduced smaller changes that would address the most problematic issues. We were happy with the overall results and the improvements that we already made. But still, we were left with a few problems that required more attention.
+
+##The Problems
+We’ve done a very good job creating a magazine editor that is content–focused. Our usability tests confirmed that all users found content management very easy. It was the page management that was problematic.
+
+<div class="fullWidth txtCenter">(image: problems.jpg title: Three tasks turned out to be very problematic. )</div><br>
+
+###Deleting a Page
+To delete a page, the user would have to click on the page settings button and choose “delete page” from the 8 available options. We were trying to be clever when we came up with this solution and now it got back at us. When we asked the users to delete the current page, almost none of them noticed the page settings button and the ones that did, didn’t think it was the right button.
+
+(figure: delete-page.jpg title: Page settings button wasn't noticeable and users didn't associate it with the right option. caption: Page settings button wasn't noticeable and users didn't associate it with the right option.)
+
+This was the most problematic task. The success rate was only around 30%, average perceived difficulty was 3.25 (1 being easy, 7 difficult).
+
+###Change Page Style
+Styles bring magic to the Wondermags magazines. Unfortunately, the solution to change the page style was unintuitive. It was yet again displaced and hidden in the page settings menu. This lead to the same problem as we had with deleting the pages.
+
+(figure: no-styles.jpg title: The Styles Problem caption: The default option was useless. User would have to go to another level to get to some styles.)
+
+###Saving the Changes
+The design that we prepared for saving the changes made to a magazine was meant to work as an autosave. We faced some technical problems that prevented us from implementing the autosave, but the design remained pretty much the same.
+
+(figure: save-changes.jpg title: Saving changes caption: Adding a tooltip alert improved the usability of this feature a bit.)
+
+Whenever a user would make a change, the autosave function would be triggered. That’s why I made the save button very subtle when I was working on the visual designs (users would still notice it as it would animate after each change). But because the autosave function was never implemented, the users never noticed the save button.
+
+With task success rate around 70% and average perceived difficulty 3.03 (1 being easy, 7 difficult) this was the second most problematic task.
+
+##Plan
+We met the day after we discussed the usability tests results. Everyone agreed that the problems should be addresses asap so we quickly came up with a plan:
+
+- Write down the most problematic issues that we wanted to solve (besides the main 3 problems).
+- Create an add/remove features list.
+- Conduct a Design Studio.
+- Wireframe and prototype the best solution. Test it.
+- Visual design and implementation.
+
+##Solving the Problems
+After the conclusions of the usability testing sessions it was clear which problems we had to address. We gathered the team and jumped right into it.
+
+###Design Studio
+To avoid focusing on only one solution (usually proposed by the loudest person in the room) that turns out to be wrong after 3 months, I recommended conducting a Design Studio (Lean UX workshop). I asked each team member to come up with a few solutions for the problems and present it to the whole team. Others would than give feedback to the presented solutions.
+
+###Diverge
+This way, we came up with numerous solutions that would solve our main usability problems. Some of them were minor fixes, some were major changes in UI layout.
+
+(figure: gallery.jpg title: Two iterations of numerous ideas gave us some good options to proceed with. caption: Two iterations of numerous ideas gave us some good options to proceed with.)
+
+###Iterate
+We did two rounds of iterations. After seeing solutions from others, we came up with even more and better solutions (which is what usually happens in Design Studio workshops).
+
+After the second round of iterations, we already started noticing a pattern. Two of the solutions stood out the most as they were proposed most often.
+
+<div class="fullWidth txtCenter">(image: two-solutions.jpg title: The two best solutions. )</div><br>
+
+###Converge
+After we noticed that two solutions were getting proposed more and more often, we decided to converge on them. We took both solutions further by preparing more detailed sketches and wireframes. After that it became clear that the sidebar layout solution could be the way to go, so we created a quick prototype in Balsamiq.
+
+###Wireframe & Prototype
+
+<div class="fullWidth txtCenter">(image: wireframes.jpg title: Wireframes )</div><br>
+
+The solutions proposed were very different from each other. One introduced only minor changes to the UI layout but still managed to address the issues. The other one proposed a major change in the UI layout. It introduced a sidebar. And it made total sense. We were surprised that we never thought about it so far.
+
+The sidebar solution works very well because:
+
+- there’s nothing that would obstruct the users’ view of the page,
+- works very well with our full–screen modal windows,
+- gives us more flexibility (adding more features in the future).
+
+###Testing
+Now we had a prototype that was detailed enough for some quick in–house testing. We didn’t track scores this time but we immediately noticed that the improvements were spot–on. We can’t wait to run usability tests on the new version of the Wondermags Editor with actual users and see how much we improved the usability.
+
+##Problems Solved
+The new layout brings a drastic change to the UI but it solves our main problems elegantly. Here’s how it solves our three problems that I mentioned at the beginning.
+
+**Deleting a Page**
+We decided to put the most common page manipulation actions right next to the pages in the sidebar. These icons are: move/rearrange, duplicate, delete and more. This menu is shown next to the active page and on hover for non–active pages.
+
+<div class="img txtCenter">(image: delete-page.png title: Delete page.)</div>
+
+Deleting a page is now very simple. The delete icon is always visible, once clicked, the user only has to confirm his decision. In the end we notify the user that the page has been deleted in a short message on top.
+
+**Change Page Style**
+By adding the action menu next to the pages we also solved this problem. We don’t expect that changing styles will occur very often so we decided to displace the according icon under the More menu.
+
+<div class="img txtCenter" style="max-width:45em;">(image: change-style.png title: Change page style.)</div>
+
+**Save Changes**
+The newly introduced sidebar has two levels. The save button is located in the top level sidebar. This means that it will be visible at all times. How I imagined it to work is that it should change the icon and the background color when a change to the magazine is made. This way, the users will definitely notice it and learn about its’ behavior. 
+
+<div class="img txtCenter">(figure: save-icons.jpg title: Save icons. caption: The save icon is now much more dominant in the UI. All because of a little help from colors.)</div>
+
+##Finishing Touches
+We also decided that we have to freshen up the Wondermags Editor a bit. The wooden background has been bothering me for a while now and I wanted to replace it with a simple flat color. I wanted to achieve the same as with the Design Studio for finding ideas to solve problems with a moodboard for visual designs. We put on this board everything that we found inspiring even before we started actively working on it.
+
+<div class="fullWidth txtCenter">(image: moodboard.jpg title: Our Moodboard. )</div><br>
+
+Exploring our options like this was very helpful as it seemed that we never ran out of ideas. After a while we came to a conclusion that we also needed to update our color palette and the style guide for the Wondermags Editor. We're still working on the visual design refreshment so stay tuned.
+
