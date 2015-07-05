@@ -194,4 +194,4 @@ What we found out with these usability sessions was that users would need instru
 
 (quote: Elon Musk text: Any product that needs a manual to work is broken.)
 
-This is one rule in design that I like to stick with. Simplicity is good when the product works. Simplicity instead of clarity is not an option. This is why we later redesigned the layout of the main user interface. With the new version, we were able to solve all the problems that the previous one had. And the new user interface needed no instructions for use. Stay tuned for the new case study on how we succeeded in that.
+This is one rule in design that I like to stick with. Simplicity is good when the product works. Simplicity instead of clarity is not an option. This is why we later redesigned the layout of the main user interface. With the new version, we were able to solve all the problems that the previous one had. And the new user interface needed no instructions for use. Take a look at [how we succeeded in that](http://matoweb.com/work/solving-the-usability-problems).
