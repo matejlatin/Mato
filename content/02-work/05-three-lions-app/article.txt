@@ -1,0 +1,100 @@
+Title: Learning by Doing
+----
+Date: 2015-07-10
+----
+Intro: Because of a growing demand for mobile apps design in recent years, I wanted to take my skills further.
+----
+Opacity: 0.3
+----
+Text:
+
+For me, the word design doesn't mean only how things look, but also (or mostly) how they work and what experiences they produce. That's why I think that web designers should know the basics of front–end development and UX/product designers should know the basics of coding for whatever platform they're working for.
+
+I had designed user interfaces and visual designs for many apps, but I was never satisfied with my limited role in the process. I wanted to do more. I wanted to know more. That's why I decided to design and develop an app, completely by myself. I felt encouraged when I discussed this with my colleagues at work and one of them told me that my current front–end skills should be enough to create a hybrid app.
+
+##Project Goals
+
+###Improve my Front–End Skills
+I come from a web design background so I always knew how to code. Personal side projects like these allow me to continue improving my coding skills and keep up with web technologies (Sass and Angular.js in this particular project).
+
+###Learn How to Use PhoneGap
+I wanted to use my current (web) development skills to create the app and PhoneGap makes this possible.
+
+###Use Sketch for Visual Designs
+I feel like at home in Photoshop. But recently the Sketch app has been gaining on popularity and I gave it a try. It was like love at first sight. This project would be the first where I would use only Sketch for all the visual designs.
+
+##The Idea
+I'm a passionate football fan. I follow the English Premier League every weekend, as many matches as I can. I can't afford to miss a match or its' result, either of my favorite club or its' fiercest rivals.
+
+So far, the apps that are available were satisfactory. Most of them are too complex for me. Asking for favorite clubs and competitions and then showing the data based on these selections doesn't really work for me. I was looking for an app that would be specialized only for the English Premier League but with no luck.
+
+##App Goals
+
+###Display the most important information on one screen
+I wanted to make the most important information very prominent and on the first screen of the app. Most important information included the matches in current matchday, the scores or the time of the match if it hasn't started yet.
+
+###Display the information based on matchdays
+Unlike other apps that display information based on the weekdays, I wanted to show information grouped by the current matchday (there are 38 in Premier League).
+
+###Show detailed information on deeper levels
+The user must be able to obtain more detailed information for the matches that he's most interested in. This info would be shown on second–level screens.
+
+##Process
+###Research Other Football Apps
+What I wanted to do first was check what other similar apps are doing and how. I've been using One Football for a while but during research, I found out that there's at least a dozen of other apps. Most of them work in a similar fashion. Choose your favorite club and the competitions you want to follow. After that the user can see the past results and future fixtures of these competitions.
+
+###User Stories
+**Scenario One**
+The user is watching a football game of his favorite club. He knows that a rival club is also playing a match at the same time and wants to check the result of that match. He launches the app and gets the information (current result) that he needs with a single tap. He taps to see further information about the match: match time, key events, team line-ups, stats.
+
+(figure: user-flow-one.jpg title: User Flow for scenario one caption: User flow for scenario one)
+
+**Scenario Two**
+The user's favorite team just lost a match and lost three very important points. A rival team is yet to play their match but the user doesn't remember their opponent. He launches the app and gets the right information (opponent, match time) with a single tap.
+
+(figure: user-flow-two.jpg title: User Flow for scenario one caption: User flow for scenario two)
+
+###Wireframe & Prototype
+After a lot of sketching and exploration I had a basic idea of what information should be on which screen. I created the wireframes of these screens in Balsamiq and a quick prototype after that.
+
+(figure: wireframes-diagram.png title: Wireframes)
+
+The structure of the app is very simple. It consists of only two levels. A slider is on the first level. The user swipes between three different slides: Current Matchday (default), Past Matchdays and League Table.
+
+The second level is the Match Details screens. The information and the structure of the screen is the same, no matter if accessed from Current Matchday or Past Matchdays screen.
+
+###Removing Features
+I decided to remove a few features from the first version of the app. I want to create a simplified version that will serve as an MVP. With it, I plan to validate or invalidate my hypothesis that others want this kind of an app. I will develop the removed features if the hypothesis gets validated.
+
+(figure: wireframes-diagram-simplified.png title: Wireframes Simplified)
+
+###Visual Designs
+I had a good idea of what I wanted to achieve with this app. I also had a basic idea of what the visual design should be like. But still, I wanted to explore alternatives for my idea.
+
+**Home Screen**
+Finding the right style for the home screen was the hardest. I wanted the screen to offer a clean overview of the current matchday. Here's what my exploration looked like.
+
+<div class="gallery cf" style="max-width: 900px; margin: auto;">
+    (image: matchday1.jpg)
+    (image: matchday2.jpg)
+    (image: matchday3.jpg)
+    (image: matchday4.jpg)
+</div>
+
+1. The first version.
+2. Added stadium photos to the background.
+3. Added blur to the photos and changed typography.
+4. Removed the green overlay for a more natural feeling.
+
+**League Table & Match Details**
+League table and match details screen were quite easy to design once I had the home screen done. The Match details screen will be animated from the home screen. That's why the top of the screen looks exactly the same as the match info on the home screen.
+
+<div class="img txtCenter">(image: simplified-screens.jpg title: App Screens)</div>
+
+**Future Match Details**
+Detailed info about the match would be very helpful for some users. All this has been removed from the first version and is planned for the second one.
+
+<div class="img txtCenter">(image: future-screens.jpg title: Future Screens)</div>
+
+##To Do
+There's still a lot left to do. Besides actually developing the app (current task), I still have to come up with the branding for it, create a landing page and run experiments/find out if other people want this product. I want to make the app available at the start of the new season. Exciting times are coming.
