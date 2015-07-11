@@ -13,7 +13,7 @@ For me, the word design doesn't mean only how things look, but also (or mostly) 
 I had designed user interfaces and visual designs for many apps, but I was never satisfied with my limited role in the process. I wanted to do more. I wanted to know more. That's why I decided to design and develop an app, completely by myself. I felt encouraged when I discussed this with my colleagues at work and one of them told me that my current front–end skills should be enough to create a hybrid app.
 
 ##Project Goals
-I always start personal projects with a main goal to learn something new. Doing something I already know over and over again gets boring.
+I always start personal projects with a main goal to learn something new. Doing something I already know over and over again gets boring. Here are my personal goals for this project.
 
 ###Improve my Front–End Skills
 I come from a web design background so I always knew how to code. Personal side projects like these allow me to continue improving my coding skills and keep up with web technologies (Sass and Angular.js in this particular project).
