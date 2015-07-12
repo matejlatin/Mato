@@ -2,7 +2,7 @@ Title: Learning by Doing
 ----
 Date: 2015-07-10
 ----
-Intro: Because of a growing demand for mobile apps design in recent years, I decided to take my skills further.
+Intro: Because of a growing demand for mobile apps design in recent years, I decided to take my development skills further.
 ----
 Opacity: 0.3
 ----
